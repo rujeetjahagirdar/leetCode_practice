@@ -12,14 +12,7 @@ class Solution:
             if(height[::-1][i]>rm):
                 rm=height[::-1][i]
         rightMax = rightMax[::-1]
-        # print(leftMax)
-        
-        
-        # for i in range(0,len(height)):
-            
-            
 
-        # print(rightMax)
             
         
         ans=0
