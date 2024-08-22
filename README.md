@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0016-3sum-closest) |
 | [0055-jump-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0134-gas-station) |
@@ -34,9 +35,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0016-3sum-closest) |
 | [0202-happy-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0290-word-pattern) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
