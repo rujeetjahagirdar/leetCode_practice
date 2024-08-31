@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0202-happy-number) |
+| [0292-nim-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0292-nim-game) |
 | [2383-add-two-integers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2383-add-two-integers) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Two Pointers
@@ -167,4 +168,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
