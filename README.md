@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2331-intersection-of-multiple-arrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2331-intersection-of-multiple-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3324-split-the-array) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2341-count-prefixes-of-a-given-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Sorting
 |  |
 | ------- |
