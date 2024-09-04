@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0289-game-of-life](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0289-game-of-life) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0906-walking-robot-simulation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0907-koko-eating-bananas) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2331-intersection-of-multiple-arrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2331-intersection-of-multiple-arrays) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0202-happy-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0290-word-pattern) |
+| [0906-walking-robot-simulation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0906-walking-robot-simulation) |
 | [1023-time-based-key-value-store](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1023-time-based-key-value-store) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2331-intersection-of-multiple-arrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2331-intersection-of-multiple-arrays) |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0289-game-of-life) |
+| [0906-walking-robot-simulation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0906-walking-robot-simulation) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 ## Heap (Priority Queue)
