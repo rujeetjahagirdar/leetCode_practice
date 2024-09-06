@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0906-walking-robot-simulation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0907-koko-eating-bananas) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2331-intersection-of-multiple-arrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2331-intersection-of-multiple-arrays) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0907-koko-eating-bananas](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1023-time-based-key-value-store) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Design
 |  |
 | ------- |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Matrix
 |  |
 | ------- |
@@ -138,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0289-game-of-life) |
 | [0906-walking-robot-simulation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0906-walking-robot-simulation) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
