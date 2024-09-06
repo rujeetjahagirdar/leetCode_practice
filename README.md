@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0043-multiply-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0326-power-of-three) |
@@ -204,4 +206,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
