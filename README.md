@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0289-game-of-life](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0289-game-of-life) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0747-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
