@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0071-simplify-path) |
 | [0290-word-pattern](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0290-word-pattern) |
 | [1023-time-based-key-value-store](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1023-time-based-key-value-store) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2361-calculate-digit-sum-of-a-string) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0289-game-of-life) |
 | [0906-walking-robot-simulation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0906-walking-robot-simulation) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 ## Heap (Priority Queue)
