@@ -244,4 +244,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0295-find-median-from-data-stream) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
