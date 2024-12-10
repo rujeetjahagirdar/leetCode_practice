@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2331-intersection-of-multiple-arrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2331-intersection-of-multiple-arrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3324-split-the-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3324-split-the-array) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2414-move-pieces-to-obtain-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3195-separate-black-and-white-balls) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Sorting
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3427-special-array-ii) |
 ## Design
 |  |
@@ -201,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -265,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2331-intersection-of-multiple-arrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2331-intersection-of-multiple-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3324-split-the-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3324-split-the-array) |
 ## Enumeration
 |  |
