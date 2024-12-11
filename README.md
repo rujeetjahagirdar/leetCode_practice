@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0071-simplify-path) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Binary Search
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2384-root-equals-sum-of-children) |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2384-root-equals-sum-of-children) |
@@ -319,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0086-partition-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Memoization
 |  |
@@ -341,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0101-symmetric-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0130-surrounded-regions) |
 | [0339-nested-list-weight-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0339-nested-list-weight-sum) |
