@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0112-path-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2384-root-equals-sum-of-children) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0112-path-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2384-root-equals-sum-of-children) |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0130-surrounded-regions) |
 | [0339-nested-list-weight-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0339-nested-list-weight-sum) |
@@ -348,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0112-path-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0130-surrounded-regions) |
 | [0286-walls-and-gates](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0286-walls-and-gates) |
