@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2350-find-closest-number-to-zero](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2350-find-closest-number-to-zero) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 ## Heap (Priority Queue)
 |  |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Tree
 |  |
 | ------- |
