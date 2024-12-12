@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2384-root-equals-sum-of-children) |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2384-root-equals-sum-of-children) |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0130-surrounded-regions) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0339-nested-list-weight-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0339-nested-list-weight-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -403,5 +406,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
