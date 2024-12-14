@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
+| [2868-continuous-subarrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-total-cost-to-hire-k-workers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Tree
 |  |
@@ -420,4 +423,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
