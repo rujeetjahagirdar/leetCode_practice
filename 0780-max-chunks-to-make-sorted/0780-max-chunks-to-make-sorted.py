@@ -6,7 +6,8 @@ class Solution:
         i=0
         j=0
         while(j<len(arr) and i<len(arr)):
-            # print(arr[i:j])
+            
+            # a chunk is valid when indx of end of chunk is eqal to max of that chunk
             while(j!=max(arr[:j+1])):
                 j+=1
             ans+=1
