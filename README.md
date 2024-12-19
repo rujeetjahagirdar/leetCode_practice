@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0502-ipo) |
 | [0747-min-cost-climbing-stairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0747-min-cost-climbing-stairs) |
+| [0780-max-chunks-to-make-sorted](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0906-walking-robot-simulation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0907-koko-eating-bananas) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0135-candy) |
 | [0502-ipo](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0502-ipo) |
 | [0680-valid-palindrome-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0680-valid-palindrome-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1917-maximum-average-pass-ratio](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2089-maximum-matrix-sum) |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0502-ipo) |
+| [0780-max-chunks-to-make-sorted](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -199,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0780-max-chunks-to-make-sorted](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -452,5 +456,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
