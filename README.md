@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
