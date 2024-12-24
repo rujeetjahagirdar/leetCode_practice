@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-construct-string-with-repeat-limit](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2331-intersection-of-multiple-arrays) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2455-node-with-highest-edge-score](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2455-node-with-highest-edge-score) |
 | [2486-most-frequent-even-element](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2486-most-frequent-even-element) |
 | [2587-design-memory-allocator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2587-design-memory-allocator) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -435,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0399-evaluate-division) |
+| [2455-node-with-highest-edge-score](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2455-node-with-highest-edge-score) |
 | [3189-find-champion-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3189-find-champion-ii) |
 ## Bit Manipulation
 |  |
