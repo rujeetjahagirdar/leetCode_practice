@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2331-intersection-of-multiple-arrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2331-intersection-of-multiple-arrays) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2350-find-closest-number-to-zero](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2350-find-closest-number-to-zero) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2587-design-memory-allocator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2587-design-memory-allocator) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2331-intersection-of-multiple-arrays) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2587-design-memory-allocator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2587-design-memory-allocator) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0692-top-k-frequent-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2331-intersection-of-multiple-arrays) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3324-split-the-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3324-split-the-array) |
