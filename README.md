@@ -347,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0399-evaluate-division) |
 | [2455-node-with-highest-edge-score](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2455-node-with-highest-edge-score) |
 | [3189-find-champion-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3189-find-champion-ii) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -466,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -485,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Union Find
 |  |
 | ------- |
