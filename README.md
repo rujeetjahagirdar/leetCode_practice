@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0163-missing-ranges](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0163-missing-ranges) |
 | [0198-house-robber](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0286-walls-and-gates](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0286-walls-and-gates) |
