@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0906-walking-robot-simulation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0907-koko-eating-bananas) |
+| [1063-best-sightseeing-pair](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1063-best-sightseeing-pair) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0747-min-cost-climbing-stairs) |
+| [1063-best-sightseeing-pair](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1063-best-sightseeing-pair) |
 ## Hash Table
 |  |
 | ------- |
