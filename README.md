@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0906-walking-robot-simulation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0907-koko-eating-bananas) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1063-best-sightseeing-pair) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0680-valid-palindrome-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1917-maximum-average-pass-ratio](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2094-remove-stones-to-minimize-the-total) |
