@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2342-minimum-average-difference](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2342-minimum-average-difference) |
 | [2350-find-closest-number-to-zero](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2350-find-closest-number-to-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2358-number-of-ways-to-split-array) |
+| [2388-replace-elements-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2388-replace-elements-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2486-most-frequent-even-element](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2486-most-frequent-even-element) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2331-intersection-of-multiple-arrays) |
+| [2388-replace-elements-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2388-replace-elements-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2455-node-with-highest-edge-score](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2455-node-with-highest-edge-score) |
 | [2486-most-frequent-even-element](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2486-most-frequent-even-element) |
@@ -334,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [2388-replace-elements-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2388-replace-elements-in-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2587-design-memory-allocator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2587-design-memory-allocator) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2692-take-gifts-from-the-richest-pile) |
