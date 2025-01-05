@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2873-prime-pairs-with-target-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2873-prime-pairs-with-target-sum) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -473,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0342-power-of-four) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
 | ------- |
@@ -510,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0342-power-of-four) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Depth-First Search
 |  |
 | ------- |
