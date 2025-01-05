@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0326-power-of-three) |
@@ -468,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0342-power-of-four) |
@@ -505,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0342-power-of-four) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Depth-First Search
