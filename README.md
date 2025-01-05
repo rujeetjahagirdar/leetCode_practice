@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0342-power-of-four) |
 | [2383-add-two-integers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2383-add-two-integers) |
 | [2873-prime-pairs-with-target-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2873-prime-pairs-with-target-sum) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
@@ -503,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0222-count-complete-tree-nodes) |
+| [0342-power-of-four](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0342-power-of-four) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Depth-First Search
 |  |
