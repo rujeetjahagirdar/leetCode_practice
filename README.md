@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2388-replace-elements-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2388-replace-elements-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2465-shifting-letters-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2465-shifting-letters-ii) |
 | [2486-most-frequent-even-element](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2486-most-frequent-even-element) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2587-design-memory-allocator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2587-design-memory-allocator) |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2361-calculate-digit-sum-of-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2365-percentage-of-letter-in-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2465-shifting-letters-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3195-separate-black-and-white-balls) |
@@ -309,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2102-find-the-middle-index-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2102-find-the-middle-index-in-array) |
 | [2342-minimum-average-difference](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2714-left-and-right-sum-differences) |
 | [3427-special-array-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3427-special-array-ii) |
