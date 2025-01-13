@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2300-construct-string-with-repeat-limit) |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Binary Search
 |  |
 | ------- |
