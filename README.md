@@ -498,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0231-power-of-two) |
@@ -508,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0086-partition-list) |
