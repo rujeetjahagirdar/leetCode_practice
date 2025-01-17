@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2714-left-and-right-sum-differences](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2714-left-and-right-sum-differences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2868-continuous-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2873-prime-pairs-with-target-sum) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -543,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2509-minimize-xor](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2792-neighboring-bitwise-xor) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Depth-First Search
 |  |
