@@ -1,28 +1,17 @@
+from typing import List
+
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        def swap(nums):
-            # print(nums)
-            i = 0
-            for j in range(len(nums)):
-                if(nums[j]!="_"):
-                    nums[i], nums[j] = nums[j], nums[i]
-                    i=i+1
-                    
-        i, j = 0, 0
-        count=0
-        blankCount = 0
-        while(i<len(nums)-1):
-            # print(nums[i], i)
-            count = 1
-            j=i+1
-            while(j<len(nums) and nums[i]==nums[j]):
-                count = count +1
-                if(count>2):
-                    nums[j]='_'
-                    blankCount=blankCount+1
-                j = j+1
-            i=j
-        swap(nums)
-        # print(nums)
-        return(len(nums)-blankCount)
-            # i = i+1
+        if len(nums) < 3:
+            return len(nums)
+        
+        write_index = 2
+        for read_index in range(2, len(nums)):
+            if nums[read_index]!= nums[write_index - 2]:
+                nums[write_index] = nums[read_index]
+                write_index += 1
+        
+        return write_index
+
+# Runtime Complexity: O(n)
+# Space Complexity: O(1)
