@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0048-rotate-image) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0179-largest-number) |
