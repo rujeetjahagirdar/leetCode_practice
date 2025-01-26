@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0054-spiral-matrix) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0091-decode-ways) |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -303,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -668,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Iterator
