@@ -577,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0399-evaluate-division) |
 | [0820-find-eventual-safe-states](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1558-course-schedule-iv) |
 | [2455-node-with-highest-edge-score](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2455-node-with-highest-edge-score) |
 | [3189-find-champion-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -614,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0820-find-eventual-safe-states) |
 | [0975-range-sum-of-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0975-range-sum-of-bst) |
 | [1396-count-servers-that-communicate](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1396-count-servers-that-communicate) |
+| [1558-course-schedule-iv](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1558-course-schedule-iv) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -638,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -702,4 +705,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1558-course-schedule-iv) |
 <!---LeetCode Topics End-->
