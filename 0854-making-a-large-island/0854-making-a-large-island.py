@@ -1,6 +1,6 @@
 class Solution:
     def largestIsland(self, grid: List[List[int]]) -> int:
-        islandMap = defaultdict(set)
+        # islandMap = defaultdict(set)
         islandSize = defaultdict(int) 
 
         isLandId = 1000
@@ -11,7 +11,7 @@ class Solution:
         def dfs(i, j, iId):
             size=1
             visited.add((i, j))
-            islandMap[iId].add((i, j))
+            # islandMap[iId].add((i, j))
             grid[i][j]=iId
             for direction in directions:
                 newi, newj = i+direction[0], j+direction[1]
@@ -25,13 +25,13 @@ class Solution:
             for j in range(len(grid[0])):
                 if((i, j) not in visited and grid[i][j]==1):
                     visited.add((i, j))
-                    islandMap[isLandId].add((i, j))
+                    # islandMap[isLandId].add((i, j))
                     # print(islandMap[isLandId])
                     s=dfs(i, j, isLandId)
                     islandSize[isLandId]=s
                     isLandId+=1
         
-        print(islandMap)
+        # print(islandMap)
         print(islandSize)
         print(grid)
 
