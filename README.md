@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3427-special-array-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3427-special-array-ii) |
+| [3429-special-array-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
