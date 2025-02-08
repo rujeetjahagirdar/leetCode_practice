@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2331-intersection-of-multiple-arrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2331-intersection-of-multiple-arrays) |
 | [2388-replace-elements-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2388-replace-elements-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2434-design-a-number-container-system](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2434-design-a-number-container-system) |
 | [2455-node-with-highest-edge-score](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2455-node-with-highest-edge-score) |
 | [2486-most-frequent-even-element](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2486-most-frequent-even-element) |
 | [2587-design-memory-allocator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2587-design-memory-allocator) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0359-logger-rate-limiter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0362-design-hit-counter) |
 | [1023-time-based-key-value-store](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1023-time-based-key-value-store) |
+| [2434-design-a-number-container-system](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2434-design-a-number-container-system) |
 | [2587-design-memory-allocator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2587-design-memory-allocator) |
 ## Divide and Conquer
 |  |
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-construct-string-with-repeat-limit](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+| [2434-design-a-number-container-system](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2434-design-a-number-container-system) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -701,6 +704,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
