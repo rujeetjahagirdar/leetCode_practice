@@ -6,14 +6,19 @@ class Solution:
             numberS = str(numberS)
             # print(numberS, target)
 
+            if(numberS==''):
+                if(target==0):
+                    return True
+                return False
+
             if(target<0):
                 return False
 
-            if(int(numberS)<target):
-                return False
+            # if(int(numberS)<target):
+            #     return False
             
-            if(int(numberS)==target):
-                return True
+            # if(int(numberS)==target):
+            #     return True
 
             
             
@@ -24,7 +29,7 @@ class Solution:
                 if(canPartition(right, target - int(left))):
                     return True
         
-
+            return False
 
         ans=0
         for i in range(1, n+1):
