@@ -1,10 +1,7 @@
 class Solution:
     def constructDistancedSequence(self, n: int) -> List[int]:
-        stack = [i+1 for i in range(n)]
         visited = set()
         ans=[-1]*(2*(n-1)+1)
-        print(len(ans))
-        print(stack)
 
         
         #[5,4,3,2,1]
@@ -27,31 +24,31 @@ class Solution:
                         if(ans[idx]==-1):
                             ans[idx]=1
                             visited.add(1)
-                            print("Visisted: ",visited)
-                            print(ans)                            
+                            # print("Visisted: ",visited)
+                            # print(ans)                        
                             if(backtrack(idx+1)):
                                 return True
                             else:
                                 ans[idx]=-1
                                 visited.remove(1)
-                                print("Visisted: ",visited)
-                                print(ans) 
-                                return False
+                                # print("Visisted: ",visited)
+                                # print(ans)
+                                
                     else:
                         if(idx+i<len(ans) and ans[idx]==-1 and ans[idx+i]==-1):
                             ans[idx]=i
                             ans[idx+i]=i
                             visited.add(i)
-                            print("Visisted: ",visited)
-                            print(ans)
+                            # print("Visisted: ",visited)
+                            # print(ans)
                             if(backtrack(idx+1)):
                                 return True
                             else:
                                 ans[idx]=-1
                                 ans[idx+i]=-1
                                 visited.remove(i)
-                                print("Visisted: ",visited)
-                                print(ans) 
+                                # print("Visisted: ",visited)
+                                # print(ans) 
                                 # return False
                         else:
                             pass
