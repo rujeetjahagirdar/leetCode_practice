@@ -9,6 +9,9 @@ class Solution:
         
         #[5,4,3,2,1]
         #[-1,-1,-1,-1,-1,-1,-1,-1, -1]
+        # for each index of ans
+            #we will try all the values in range n to 1 meeting the condition.
+            # then we will try to fill next index+1 of ans, if that is not successfull, we will revert the index changes
         
         def backtrack(idx):
 
@@ -24,62 +27,39 @@ class Solution:
                         if(ans[idx]==-1):
                             ans[idx]=1
                             visited.add(1)
+                            print("Visisted: ",visited)
+                            print(ans)                            
                             if(backtrack(idx+1)):
                                 return True
                             else:
                                 ans[idx]=-1
                                 visited.remove(1)
+                                print("Visisted: ",visited)
+                                print(ans) 
+                                return False
                     else:
                         if(idx+i<len(ans) and ans[idx]==-1 and ans[idx+i]==-1):
                             ans[idx]=i
                             ans[idx+i]=i
                             visited.add(i)
+                            print("Visisted: ",visited)
+                            print(ans)
                             if(backtrack(idx+1)):
                                 return True
                             else:
                                 ans[idx]=-1
                                 ans[idx+i]=-1
                                 visited.remove(i)
+                                print("Visisted: ",visited)
+                                print(ans) 
+                                # return False
                         else:
                             pass
+            return False
         
-        backtrack(0)
-        print(ans)
-        return ans
+        if(backtrack(0)):
+            print(ans)
+            return ans
 
 
 #########################################################
-        # # stack = [1,2,3]
-        # # ans = [-1,-1,-1,-1,-1]
-        # for i in range(len(ans)):
-        #     while(stack):
-        #         n = stack.pop(-1)
-        #         print(stack)
-        #         if(n!=1):
-        #             if(ans[i]==-1 and ans[i+n]==-1):
-        #                 ans[i]=n
-        #                 ans[i+n]=n
-        #                 print(ans)
-        #                 if(len(temp)>0):
-        #                     while(temp):
-        #                         stack.append(temp.pop(-1))
-        #                         print(stack)
-        #                 break
-        #             else:
-        #                 temp.append(n)
-        #                 print(temp)
-        #         else:
-        #             if(ans[i]==-1):
-        #                 ans[i]=n
-        #                 print(ans)
-        #                 if(len(temp)>0):
-        #                     while(temp):
-        #                         stack.append(temp.pop(-1))
-        #                         print(ans)
-        #                 break
-        #             else:
-        #                 temp.append(n)
-        #                 print(temp)
-        #     # print(stack)
-        #     # print(temp)
-        #     # print(ans)
