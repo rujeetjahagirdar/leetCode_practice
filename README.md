@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0692-top-k-frequent-words) |
+| [0782-jewels-and-stones](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0782-jewels-and-stones) |
 | [0906-walking-robot-simulation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0906-walking-robot-simulation) |
 | [0952-word-subsets](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1023-time-based-key-value-store) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0692-top-k-frequent-words) |
+| [0782-jewels-and-stones](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0782-jewels-and-stones) |
 | [0851-goat-latin](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0851-goat-latin) |
 | [0952-word-subsets](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
