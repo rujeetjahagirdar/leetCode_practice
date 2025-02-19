@@ -17,7 +17,9 @@ class Solution:
                         # l=j
                         break
                     j+=1
+                l=j
                 ans = max(tMax, ans)
-            l+=1
+            else:
+                l+=1
         print(ans)
         return ans
