@@ -5,7 +5,7 @@ class Solution:
 
         while(l<len(nums)):
             if(nums[l]%2==0 and nums[l]<=threshold):
-                print("l=", nums[l])
+                # print("l=", nums[l])
                 tMax = 1
                 j=l+1
                 while(j<len(nums)):
@@ -13,7 +13,7 @@ class Solution:
                         tMax+=1
                     else:
                         ans = max(tMax, ans)
-                        print(ans)
+                        # print(ans)
                         # l=j
                         break
                     j+=1
