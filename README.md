@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0359-logger-rate-limiter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0362-design-hit-counter) |
 | [1023-time-based-key-value-store](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1023-time-based-key-value-store) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2434-design-a-number-container-system) |
 | [2587-design-memory-allocator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2587-design-memory-allocator) |
@@ -511,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0975-range-sum-of-bst) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -536,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0975-range-sum-of-bst) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -671,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0854-making-a-large-island) |
 | [0975-range-sum-of-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0975-range-sum-of-bst) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1558-course-schedule-iv) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -698,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1558-course-schedule-iv) |
