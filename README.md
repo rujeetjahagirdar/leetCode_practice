@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1646-kth-missing-positive-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0747-min-cost-climbing-stairs) |
 | [1063-best-sightseeing-pair](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1063-best-sightseeing-pair) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
 | ------- |
