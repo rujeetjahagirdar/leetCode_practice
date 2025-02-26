@@ -32,11 +32,11 @@ class Solution:
                 if(f>0):
                     waitingQueue.append((f, t, currTime+n))
             
-            else:
+            else: #if all tasks are in waiting queue(idle)
                 ans.append("_")
             
             if(waitingQueue):
-                if(currTime>=waitingQueue[0][2]):
+                if(currTime>=waitingQueue[0][2]): #if task in waiting queue is ready to be processed
                     iF, iT, iTime = waitingQueue.popleft()
                     heapq.heappush(max_heap, (-iF, iT))
             
