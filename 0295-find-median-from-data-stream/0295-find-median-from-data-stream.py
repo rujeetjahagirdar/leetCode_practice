@@ -5,6 +5,10 @@ class MedianFinder:
         self.min_heap = []
 
     def addNum(self, num: int) -> None:
+
+        #use max_heap to store first half
+        #use min_heap to store second half
+
         heapq.heappush(self.max_heap, -num)
 
         if(self.max_heap and self.min_heap):
