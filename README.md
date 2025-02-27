@@ -836,4 +836,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1014-k-closest-points-to-origin) |
+## Concurrency
+|  |
+| ------- |
+| [1340-the-dining-philosophers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1340-the-dining-philosophers) |
 <!---LeetCode Topics End-->
