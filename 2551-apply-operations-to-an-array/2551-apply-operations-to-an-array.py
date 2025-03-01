@@ -10,17 +10,19 @@ class Solution:
                 nums[i+1]=0
             i+=1
             # print(nums)
+        
+        #[1,4,0,2,0,0]
 
-        for i in range(len(nums)-1):
+        i=0
+        while(i<len(nums)-1):
             if(nums[i]==0):
                 j=i+1
                 while(j<len(nums) and nums[j]==0):
                     j+=1
-                if(j>=len(nums)):
-                    # print(nums)
-                    return nums
+                if(j<len(nums)):
+                    nums[i], nums[j] = nums[j], nums[i]
                 else:
-                    nums[i]=nums[j]
-                    nums[j]=0
-                # print(nums)
+                    break
+            i+=1
+        print(nums)
         return nums
