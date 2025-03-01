@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1063-best-sightseeing-pair](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1063-best-sightseeing-pair) |
+| [1170-shortest-common-supersequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1170-shortest-common-supersequence) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1170-shortest-common-supersequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1170-shortest-common-supersequence) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
