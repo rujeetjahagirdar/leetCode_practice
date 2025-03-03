@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3447-clear-digits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3447-clear-digits) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -518,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -828,6 +831,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0258-add-digits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0258-add-digits) |
 | [2873-prime-pairs-with-target-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2873-prime-pairs-with-target-sum) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -856,4 +860,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1340-the-dining-philosophers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1340-the-dining-philosophers) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
