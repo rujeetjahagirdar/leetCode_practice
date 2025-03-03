@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2341-count-prefixes-of-a-given-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2342-minimum-average-difference](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2342-minimum-average-difference) |
 | [2350-find-closest-number-to-zero](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2350-find-closest-number-to-zero) |
+| [2354-minimum-health-to-beat-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2354-minimum-health-to-beat-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2388-replace-elements-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2388-replace-elements-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-construct-string-with-repeat-limit](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2354-minimum-health-to-beat-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2354-minimum-health-to-beat-game) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
