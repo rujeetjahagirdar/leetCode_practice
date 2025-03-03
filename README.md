@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2509-minimize-xor](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3195-separate-black-and-white-balls](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3195-separate-black-and-white-balls) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -375,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Stack
 |  |
 | ------- |
@@ -485,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2145-grid-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -541,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Tree
 |  |
 | ------- |
