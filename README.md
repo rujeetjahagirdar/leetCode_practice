@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0290-word-pattern) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0355-design-twitter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0355-design-twitter) |
 | [0359-logger-rate-limiter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0359-logger-rate-limiter) |
 | [0433-minimum-genetic-mutation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0433-minimum-genetic-mutation) |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0295-find-median-from-data-stream) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0451-sort-characters-by-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0621-task-scheduler) |
@@ -572,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -600,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -735,6 +739,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0130-surrounded-regions) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0339-nested-list-weight-sum) |
 | [0399-evaluate-division](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -765,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0130-surrounded-regions) |
 | [0286-walls-and-gates](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0286-walls-and-gates) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0339-nested-list-weight-sum) |
 | [0399-evaluate-division](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0433-minimum-genetic-mutation) |
