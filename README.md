@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1170-shortest-common-supersequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1170-shortest-common-supersequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
