@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1396-count-servers-that-communicate) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0362-design-hit-counter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0362-design-hit-counter) |
 | [0907-koko-eating-bananas](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1023-time-based-key-value-store) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1646-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
