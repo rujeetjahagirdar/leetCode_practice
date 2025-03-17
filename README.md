@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3324-split-the-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3324-split-the-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3427-special-array-ii) |
@@ -557,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
