@@ -1,6 +1,6 @@
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
-        if numRows == 1 or numRows >= len(s):
+        if numRows == 1:
             return s
         rows = [''] * numRows
         index, step = 0, 1
