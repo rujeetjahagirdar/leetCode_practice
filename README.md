@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3427-special-array-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -490,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Prefix Sum
@@ -511,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2714-left-and-right-sum-differences) |
 | [3427-special-array-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3427-special-array-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Matrix
 |  |
 | ------- |
@@ -766,6 +769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2792-neighboring-bitwise-xor) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Depth-First Search
 |  |
@@ -851,6 +855,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0362-design-hit-counter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0362-design-hit-counter) |
 | [2868-continuous-subarrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2868-continuous-subarrays) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Ordered Set
 |  |
 | ------- |
