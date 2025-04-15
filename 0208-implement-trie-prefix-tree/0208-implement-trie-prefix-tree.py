@@ -1,44 +1,42 @@
-class TrieNode:
-    def __init__(self):
-        self.child = [None] * 26
-        self.wordEnd = False
-
 class Trie:
 
     def __init__(self):
-        self.root = TrieNode()
+        self.trie = [None]*26 + [False]
 
     def insert(self, word: str) -> None:
-        currentNode = self.root
+        curr = self.trie
+
         for w in word:
-            charIndex = ord(w) - ord('a')
-            # print(charIndex)
-            if currentNode.child[charIndex]== None:
-                currentNode.child[charIndex] = TrieNode()
-            # print(currentNode.child)
-            currentNode = currentNode.child[charIndex]
-        currentNode.wordEnd = True
+            w_index = ord(w) - ord('a')
+            if(curr[w_index]==None):
+                curr[w_index] = [None]*26 + [False]
             
-        
+            curr = curr[w_index]
+
+        curr[26] = True
 
     def search(self, word: str) -> bool:
-        currentNode = self.root
+        curr = self.trie
+
         for w in word:
-            charIndex = ord(w) - ord('a')
-            if(currentNode.child[charIndex])== None:
+            w_index = ord(w) - ord('a')
+            if(curr[w_index]==None):
                 return False
-            currentNode = currentNode.child[charIndex]
-        return currentNode.wordEnd
+            curr = curr[w_index]
+        if(curr[26]==True):
+            return True
+        else:
+            return False
 
     def startsWith(self, prefix: str) -> bool:
-        currentNode = self.root
+        curr = self.trie
+
         for w in prefix:
-            charIndex = ord(w) - ord('a')
-            if(currentNode.child[charIndex])== None:
+            w_index = ord(w) - ord('a')
+            if(curr[w_index]==None):
                 return False
-            currentNode = currentNode.child[charIndex]
+            curr = curr[w_index]
         return True
-        
 
 
 # Your Trie object will be instantiated and called as such:
