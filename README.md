@@ -337,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0290-word-pattern](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0399-evaluate-division) |
@@ -471,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0355-design-twitter) |
 | [0359-logger-rate-limiter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0359-logger-rate-limiter) |
@@ -692,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0692-top-k-frequent-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0692-top-k-frequent-words) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
@@ -793,6 +796,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0130-surrounded-regions) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0339-nested-list-weight-sum) |

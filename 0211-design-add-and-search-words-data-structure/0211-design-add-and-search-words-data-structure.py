@@ -1,42 +1,43 @@
 class TrieNode:
     def __init__(self):
-        self.childNode = [None] * 26
-        self.wordEnd = False
+        self.child = {}
+        self.is_end = False
+
 class WordDictionary:
 
     def __init__(self):
-        self.root = TrieNode()
+        self.root = TrieNode()        
 
     def addWord(self, word: str) -> None:
-        currentNode = self.root
+        curr = self.root
+        
         for w in word:
-            index = ord(w) - ord('a')
-            if not currentNode.childNode[index]:
-                currentNode.childNode[index] = TrieNode()
-            currentNode = currentNode.childNode[index]
-        currentNode.wordEnd = True
+            if(w not in curr.child):
+                curr.child[w] = TrieNode()
+            curr = curr.child[w]
+        
+        curr.is_end = True
 
     def search(self, word: str) -> bool:
-        def dfs(x, child):
-            # print(child)
-            currentNode = child
-            # print(currentNode.childNode)
-            for w in range(x, len(word)):
-                # print(word[w])
-                if(word[w]=='.'):
-                    for i in currentNode.childNode:
-                        if i:
-                            if dfs(w+1, i):
-                                return True
+        def dfs(curr, i):
+            if(i==len(word)):
+                return curr.is_end
+            if(word[i]=='.'):
+                # dfs
+                for c in curr.child:
+                    if dfs(curr.child[c], i+1):
+                        return True
+                return False
+            else:
+                if(word[i] not in curr.child):
                     return False
-                else:
-                    index = ord(word[w]) - ord('a')
-                    if currentNode.childNode[index]==None:
-                        return False
-                    currentNode = currentNode.childNode[index]
-            # print(word, currentNode.wordEnd)
-            return currentNode.wordEnd
-        return dfs(0, self.root)
+                curr = curr.child[word[i]]
+                return dfs(curr, i+1)
+        
+        curr = self.root
+
+        return dfs(curr, 0)
+
 
 # Your WordDictionary object will be instantiated and called as such:
 # obj = WordDictionary()
