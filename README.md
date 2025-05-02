@@ -487,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1014-k-closest-points-to-origin) |
@@ -776,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0342-power-of-four) |
