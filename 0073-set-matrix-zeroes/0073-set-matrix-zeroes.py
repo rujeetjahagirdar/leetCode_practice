@@ -3,15 +3,18 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        hashM = {'row':[],'col':[]}
+        rowSet = set()
+        colSet = set()
+
         for i in range(len(matrix)):
             for j in range(len(matrix[0])):
                 if(matrix[i][j]==0):
-                    hashM['row'].append(i)
-                    hashM['col'].append(j)
-        print(hashM)
+                    rowSet.add(i)
+                    colSet.add(j)
+        
         for i in range(len(matrix)):
             for j in range(len(matrix[0])):
-                if i in hashM['row'] or j in hashM['col']:
+                if(i in rowSet or j in colSet):
                     matrix[i][j]=0
+        
         print(matrix)
