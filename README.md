@@ -464,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0780-max-chunks-to-make-sorted) |
@@ -507,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0355-design-twitter) |
 | [0359-logger-rate-limiter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0359-logger-rate-limiter) |
@@ -924,6 +926,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0225-implement-stack-using-queues) |
 | [0362-design-hit-counter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0362-design-hit-counter) |
 | [2868-continuous-subarrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
