@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0251-flatten-2d-vector](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0251-flatten-2d-vector) |
 | [0268-missing-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0271-encode-and-decode-strings) |
+| [0281-zigzag-iterator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0281-zigzag-iterator) |
 | [0286-walls-and-gates](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0286-walls-and-gates) |
 | [0289-game-of-life](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0289-game-of-life) |
 | [0362-design-hit-counter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0362-design-hit-counter) |
@@ -522,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0244-shortest-word-distance-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0244-shortest-word-distance-ii) |
 | [0251-flatten-2d-vector](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0251-flatten-2d-vector) |
 | [0271-encode-and-decode-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0271-encode-and-decode-strings) |
+| [0281-zigzag-iterator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0281-zigzag-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0355-design-twitter) |
 | [0359-logger-rate-limiter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0359-logger-rate-limiter) |
@@ -941,6 +943,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0232-implement-queue-using-stacks) |
+| [0281-zigzag-iterator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0281-zigzag-iterator) |
 | [0362-design-hit-counter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0362-design-hit-counter) |
 | [2868-continuous-subarrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -966,6 +969,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0173-binary-search-tree-iterator) |
 | [0251-flatten-2d-vector](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0251-flatten-2d-vector) |
+| [0281-zigzag-iterator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0281-zigzag-iterator) |
 ## Shortest Path
 |  |
 | ------- |
