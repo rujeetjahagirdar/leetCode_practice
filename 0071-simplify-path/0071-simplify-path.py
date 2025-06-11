@@ -15,5 +15,5 @@ class Solution:
             else:
                 stack.append(i)
             # print(stack)
-        return('/'+'/'.join(stack))
+        return(ans+'/'.join(stack))
              
