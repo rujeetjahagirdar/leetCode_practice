@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0286-walls-and-gates](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0286-walls-and-gates) |
 | [0288-unique-word-abbreviation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0288-unique-word-abbreviation) |
 | [0289-game-of-life](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0362-design-hit-counter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0362-design-hit-counter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0494-target-sum) |
@@ -508,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0362-design-hit-counter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0362-design-hit-counter) |
 | [0792-binary-search](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0907-koko-eating-bananas) |
