@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3639-zero-array-transformation-i) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Greedy
 |  |
