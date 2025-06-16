@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2102-find-the-middle-index-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2102-find-the-middle-index-in-array) |
 | [2107-find-unique-binary-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2145-grid-game) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2215-finding-3-digit-even-numbers) |
