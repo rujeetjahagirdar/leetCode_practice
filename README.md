@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3639-zero-array-transformation-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3639-zero-array-transformation-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3827-implement-router](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3827-implement-router) |
 ## Greedy
 |  |
 | ------- |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3827-implement-router](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -550,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3427-special-array-ii) |
+| [3827-implement-router](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3827-implement-router) |
 ## Design
 |  |
 | ------- |
@@ -577,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1775-design-an-ordered-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1775-design-an-ordered-stream) |
 | [2434-design-a-number-container-system](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2434-design-a-number-container-system) |
 | [2587-design-memory-allocator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2587-design-memory-allocator) |
+| [3827-implement-router](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1004,11 +1008,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2868-continuous-subarrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2868-continuous-subarrays) |
+| [3827-implement-router](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
