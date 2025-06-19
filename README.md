@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -523,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1909-buildings-with-an-ocean-view](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1909-buildings-with-an-ocean-view) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -579,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-time-based-key-value-store](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1023-time-based-key-value-store) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1477-product-of-the-last-k-numbers) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1708-design-parking-system](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1708-design-parking-system) |
 | [1775-design-an-ordered-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1775-design-an-ordered-stream) |
 | [2434-design-a-number-container-system](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2434-design-a-number-container-system) |
