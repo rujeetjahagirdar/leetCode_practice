@@ -1099,4 +1099,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0729-my-calendar-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0729-my-calendar-i) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3350-distribute-elements-into-two-arrays-ii) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
