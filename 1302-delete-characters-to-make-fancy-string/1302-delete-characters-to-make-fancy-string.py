@@ -1,20 +1,12 @@
 class Solution:
     def makeFancyString(self, s: str) -> str:
-        ans=''
+        stack = []
+        # cnt=1
 
-        
-        i=0
+        for i in range(len(s)):
+            if(len(stack)>=2 and (stack[-2]==stack[-1]==s[i])):
+                continue
+            stack.append(s[i])
+        print(stack)
 
-        while(i<len(s)):
-            if((i+1<len(s) and i+2<len(s)) and (s[i]==s[i+1]==s[i+2])):
-                j=i+3
-                while(j<len(s) and s[j]==s[i]):
-                    j+=1
-                ans+=s[i]
-                ans+=s[i+1]
-                i=j
-            else:
-                ans+=s[i]
-                i+=1
-            # print(ans)
-        return ans
+        return ''.join(stack)
