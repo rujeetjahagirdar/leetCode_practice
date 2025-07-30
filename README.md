@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0170-two-sum-iii-data-structure-design](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0179-largest-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0238-product-of-array-except-self) |
@@ -652,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0286-walls-and-gates) |
 | [0289-game-of-life](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0289-game-of-life) |
 | [0854-making-a-large-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0854-making-a-large-island) |
@@ -943,6 +945,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -977,6 +980,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0286-walls-and-gates) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0339-nested-list-weight-sum) |
@@ -1004,6 +1008,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0854-making-a-large-island) |
