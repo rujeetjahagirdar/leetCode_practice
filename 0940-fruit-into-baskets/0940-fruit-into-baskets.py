@@ -22,37 +22,48 @@ class Solution:
         #         # print(basket)
         #         ans=max(ans, t)
         # return(ans)
-        
+        ##################################
+        # window = defaultdict(int)
+        # ans=0
+
+        # l=0
+
+        # for r in range(len(fruits)):
+        #     if(fruits[r] in window):
+        #         window[fruits[r]]+=1
+        #     elif(fruits[r] not in window and len(window)<2):
+        #         window[fruits[r]]+=1
+        #     else:
+        #         window[fruits[r]]+=1
+
+        #         while(len(window)>2):
+
+        #             window[fruits[l]]-=1
+    
+        #             if(window[fruits[l]]==0):
+        #                 del window[fruits[l]]
+                    
+        #             l+=1
+        #     t = sum(window.values())
+        #     ans=max(ans, t)
+        # return(ans)
+        #################################
         window = defaultdict(int)
         ans=0
 
         l=0
 
         for r in range(len(fruits)):
-            if(fruits[r] in window):
-                window[fruits[r]]+=1
-            elif(fruits[r] not in window and len(window)<2):
-                window[fruits[r]]+=1
-                # ans+=1
-            else:
-                window[fruits[r]]+=1
-                # print(window)
+            window[fruits[r]]+=1
+
+            while(len(window)>2):
+
+                window[fruits[l]]-=1
+
+                if(window[fruits[l]]==0):
+                    del window[fruits[l]]
                 
-                # ans+=1
-                while(len(window)>2):
-                    # print("l=", l)
-                    # print(fruits[l])
-                    window[fruits[l]]-=1
-    
-                    if(window[fruits[l]]==0):
-                        del window[fruits[l]]
-                    
-                    l+=1
-                    # ans-=1
-            # print(window)
-            # print(ans)
-            # print(window)
-            t = sum(window.values())
+                l+=1
+            t = (r-l)+1
             ans=max(ans, t)
-            # print(ans)
         return(ans)
