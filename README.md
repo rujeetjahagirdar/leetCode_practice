@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0792-binary-search) |
+| [0852-friends-of-appropriate-ages](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0852-friends-of-appropriate-ages) |
 | [0854-making-a-large-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0854-making-a-large-island) |
 | [0883-car-fleet](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0883-car-fleet) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0680-valid-palindrome-ii) |
+| [0852-friends-of-appropriate-ages](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0852-friends-of-appropriate-ages) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -508,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0692-top-k-frequent-words) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0807-custom-sort-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0807-custom-sort-string) |
+| [0852-friends-of-appropriate-ages](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0852-friends-of-appropriate-ages) |
 | [0883-car-fleet](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0883-car-fleet) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1014-k-closest-points-to-origin) |
@@ -568,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0362-design-hit-counter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0362-design-hit-counter) |
 | [0729-my-calendar-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0792-binary-search) |
+| [0852-friends-of-appropriate-ages](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0852-friends-of-appropriate-ages) |
 | [0907-koko-eating-bananas](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1023-time-based-key-value-store) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
