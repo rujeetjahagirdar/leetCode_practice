@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0399-evaluate-division) |
 | [0494-target-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0502-ipo) |
+| [0560-subarray-sum-equals-k](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0729-my-calendar-i) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0692-top-k-frequent-words) |
@@ -658,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
