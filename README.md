@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3790-fruits-into-baskets-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3790-fruits-into-baskets-ii) |
+| [3797-design-spreadsheet](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3827-implement-router) |
 ## Greedy
 |  |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3797-design-spreadsheet](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3827-implement-router) |
 ## Math
 |  |
@@ -498,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3617-find-the-original-typed-string-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3797-design-spreadsheet](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3797-design-spreadsheet) |
 ## Sorting
 |  |
 | ------- |
@@ -627,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2169-simple-bank-system](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2169-simple-bank-system) |
 | [2434-design-a-number-container-system](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2434-design-a-number-container-system) |
 | [2587-design-memory-allocator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2587-design-memory-allocator) |
+| [3797-design-spreadsheet](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
@@ -707,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3797-design-spreadsheet](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
