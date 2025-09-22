@@ -1,10 +1,15 @@
-# from statistics import mode
 class Solution:
     def maxFrequencyElements(self, nums: List[int]) -> int:
-        ans=0
         c = Counter(nums)
-        maxFreq = max(c.values())
+
+        mx = max(c.values())
+
+        print(mx)
+
+        ans=0
+
         for i in c:
-            if(c[i]==maxFreq):
-                ans +=c[i]
-        return ans
+            if(c[i]==mx):
+                ans+=c[i]
+        
+        return(ans)
