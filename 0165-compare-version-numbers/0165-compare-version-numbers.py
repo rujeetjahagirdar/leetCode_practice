@@ -1,25 +1,22 @@
 class Solution:
     def compareVersion(self, version1: str, version2: str) -> int:
-        #[1.0.1.02] [1.0.2]
-        version1Array = version1.split(".")
-        version2Array = version2.split(".")
+        v1 = version1.split(".")
+        v2 = version2.split(".")
 
-        version1Array.extend([0]*max(0, len(version2Array)-len(version1Array)))
-        version2Array.extend([0]*max(0, len(version1Array)-len(version2Array)))
-
-        print(version1Array)
-        print(version2Array)
+        if(len(v1)<len(v2)):
+            v1.extend(['0']*(len(v2)-len(v1)))
+        elif(len(v2)<len(v1)):
+            v2.extend(['0']*(len(v1)-len(v2)))
         
-        ans=0
+        print(v1)
+        print(v2)
 
-        for i in reversed(range(len(version1Array))):
-            if(int(version1Array[i])>int(version2Array[i])):
-                ans=1
-            elif(int(version1Array[i])==int(version2Array[i])):
-               pass
-            elif(int(version1Array[i])<int(version2Array[i])):
-                ans=-1
-        
-        return(ans)
+        #1.2.2.2.3
+        #1.2.2.3.2
 
-        
+        for i in range(len(v1)):
+            if(int(v1[i])>int(v2[i])):
+                return 1
+            elif(int(v1[i])<int(v2[i])):
+                return -1
+        return 0
