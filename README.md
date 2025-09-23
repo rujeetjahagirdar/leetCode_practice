@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0244-shortest-word-distance-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0244-shortest-word-distance-ii) |
+| [0246-strobogrammatic-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0246-strobogrammatic-number) |
 | [0268-missing-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0268-missing-number) |
 | [0288-unique-word-abbreviation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0288-unique-word-abbreviation) |
 | [0290-word-pattern](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0290-word-pattern) |
@@ -393,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0234-palindrome-linked-list) |
 | [0244-shortest-word-distance-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0244-shortest-word-distance-ii) |
+| [0246-strobogrammatic-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0246-strobogrammatic-number) |
 | [0251-flatten-2d-vector](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0251-flatten-2d-vector) |
 | [0295-find-median-from-data-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0392-is-subsequence) |
@@ -435,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0244-shortest-word-distance-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0244-shortest-word-distance-ii) |
+| [0246-strobogrammatic-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0246-strobogrammatic-number) |
 | [0271-encode-and-decode-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0271-encode-and-decode-strings) |
 | [0288-unique-word-abbreviation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0288-unique-word-abbreviation) |
 | [0290-word-pattern](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0290-word-pattern) |
