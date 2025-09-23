@@ -454,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0807-custom-sort-string) |
+| [0812-rotate-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0812-rotate-string) |
 | [0851-goat-latin](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0851-goat-latin) |
 | [0952-word-subsets](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -889,6 +890,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0459-repeated-substring-pattern) |
+| [0812-rotate-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2292-counting-words-with-a-given-prefix) |
