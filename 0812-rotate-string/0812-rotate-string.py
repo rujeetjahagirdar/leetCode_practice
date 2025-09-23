@@ -5,11 +5,8 @@ class Solution:
             return False
 
         t=s
-        for _ in range(10):
+        for _ in range(2):
             t+=t
-        print(goal)
-        
-        print(goal in t)
         
         if(goal in t):
             return True
