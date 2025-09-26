@@ -361,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0342-power-of-four) |
 | [1014-k-closest-points-to-origin](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1014-k-closest-points-to-origin) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -956,6 +957,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0355-design-twitter) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Memoization
 |  |
