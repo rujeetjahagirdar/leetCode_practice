@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0729-my-calendar-i) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0179-largest-number) |
 | [0502-ipo](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0502-ipo) |
+| [0611-valid-triangle-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0680-valid-palindrome-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0780-max-chunks-to-make-sorted) |
@@ -402,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0680-valid-palindrome-ii) |
@@ -526,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0502-ipo) |
+| [0611-valid-triangle-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0692-top-k-frequent-words) |
@@ -593,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0362-design-hit-counter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0362-design-hit-counter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0611-valid-triangle-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0792-binary-search) |
