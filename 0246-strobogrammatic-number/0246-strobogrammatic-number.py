@@ -1,15 +1,15 @@
 class Solution:
     def isStrobogrammatic(self, num: str) -> bool:
         
-        l=0
-        r = len(num)-1
+        mapping = {'6':'9', '9':'6', '8':'8', '1':'1', '0':'0'}
 
-        strobogrammatic_pairs = {'6':'9', '9':'6', '0':'0', '8':'8', '1':'1'}
+        l=0
+        r=len(num)-1
 
         while(l<=r):
-            if(num[l] not in strobogrammatic_pairs or num[r] not in strobogrammatic_pairs):
+            if(num[l] not in mapping or num[r] not in mapping):
                 return False
-            if(strobogrammatic_pairs[num[l]]!=num[r]):
+            if(num[l]!=mapping[num[r]]):
                 return False
             l+=1
             r-=1
