@@ -367,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0415-add-strings) |
 | [1014-k-closest-points-to-origin](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0399-evaluate-division) |
 | [0408-valid-word-abbreviation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0408-valid-word-abbreviation) |
+| [0415-add-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0451-sort-characters-by-frequency) |
@@ -763,6 +765,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0289-game-of-life) |
+| [0415-add-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0415-add-strings) |
 | [0906-walking-robot-simulation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1642-water-bottles) |
 | [1708-design-parking-system](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1708-design-parking-system) |
