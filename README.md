@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0303-range-sum-query-immutable) |
+| [0346-moving-average-from-data-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0346-moving-average-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0362-design-hit-counter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -652,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0288-unique-word-abbreviation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0288-unique-word-abbreviation) |
 | [0295-find-median-from-data-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0303-range-sum-query-immutable) |
+| [0346-moving-average-from-data-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0346-moving-average-from-data-stream) |
 | [0355-design-twitter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0355-design-twitter) |
 | [0359-logger-rate-limiter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0362-design-hit-counter) |
@@ -989,6 +991,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0295-find-median-from-data-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0295-find-median-from-data-stream) |
+| [0346-moving-average-from-data-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0362-design-hit-counter) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1127,6 +1130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0232-implement-queue-using-stacks) |
 | [0281-zigzag-iterator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0281-zigzag-iterator) |
+| [0346-moving-average-from-data-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0346-moving-average-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0362-design-hit-counter) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2868-continuous-subarrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2868-continuous-subarrays) |
