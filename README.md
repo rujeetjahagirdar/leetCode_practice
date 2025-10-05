@@ -404,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -451,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0179-largest-number) |
