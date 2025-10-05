@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0163-missing-ranges](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0163-missing-ranges) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0169-majority-element) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0179-largest-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0198-house-robber) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0169-majority-element) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0202-happy-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0208-implement-trie-prefix-tree) |
@@ -545,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0242-valid-anagram) |
@@ -681,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -899,6 +903,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0692-top-k-frequent-words) |
