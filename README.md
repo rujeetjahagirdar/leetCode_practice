@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0073-set-matrix-zeroes) |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0215-kth-largest-element-in-an-array) |
