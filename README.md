@@ -1032,6 +1032,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0820-find-eventual-safe-states) |
@@ -1078,6 +1079,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -1120,6 +1122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0207-course-schedule) |
 | [0286-walls-and-gates](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0286-walls-and-gates) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0339-nested-list-weight-sum) |
@@ -1233,6 +1236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1558-course-schedule-iv) |
 ## Geometry
