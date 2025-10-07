@@ -1,23 +1,21 @@
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
-        ans = list(s)
-        stack = []
+        indices_to_remove = []
 
         for i in range(len(s)):
             if(s[i]=='('):
-                stack.append(i)
+                indices_to_remove.append(i)
             elif(s[i]==')'):
-                if(len(stack)!=0):
-                    if(s[stack[-1]]=='('):
-                        stack.pop()
-                    else:
-                        ans[i]=''
+                if(len(indices_to_remove)>0 and s[indices_to_remove[-1]]=='('):
+                    indices_to_remove.pop()
                 else:
-                    ans[i]=''
-        
-        while(len(stack)!=0):
-            i = stack.pop()
-            ans[i]=''
+                    indices_to_remove.append(i)
+        print(indices_to_remove)
+
+        ans=''
+        for i in range(len(s)):
+            if(i not in indices_to_remove):
+                ans+=s[i]
         
         print(ans)
-        return ''.join(ans)
+        return ans
