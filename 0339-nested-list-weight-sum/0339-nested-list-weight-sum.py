@@ -30,31 +30,29 @@
 #    def getInteger(self):
 #        """
 #        @return the single integer that this NestedInteger holds, if it holds a single integer
-#        Return None if this NestedInteger holds a nested list
+#        The result is undefined if this NestedInteger holds a nested list
 #        :rtype int
 #        """
 #
 #    def getList(self):
 #        """
 #        @return the nested list that this NestedInteger holds, if it holds a nested list
-#        Return None if this NestedInteger holds a single integer
+#        The result is undefined if this NestedInteger holds a single integer
 #        :rtype List[NestedInteger]
 #        """
 
 class Solution:
     def depthSum(self, nestedList: List[NestedInteger]) -> int:
-        ans = 0
-
-        def dfs(li, d):
-            total=0
-            for l in li:
-                if(l.isInteger()):
-                    total+=l.getInteger() * d
-                else:
-                    total+=dfs(l.getList(), d+1)
-            return total
         
-        ans = dfs(nestedList, 1)
+        def dfs(lst, dpth):
+            depth_total = 0
+            for i in range(len(lst)):
+                if(lst[i].isInteger()):
+                    depth_total+=lst[i].getInteger() * dpth
+                else:
+                    depth_total+= dfs(lst[i].getList(), dpth+1)
 
+            return depth_total
+        
 
-        return ans
+        return dfs(nestedList, 1)
