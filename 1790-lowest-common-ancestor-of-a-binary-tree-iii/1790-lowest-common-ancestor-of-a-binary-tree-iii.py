@@ -10,6 +10,30 @@ class Node:
 
 class Solution:
     def lowestCommonAncestor(self, p: 'Node', q: 'Node') -> 'Node':
+        # p_path = []
+
+        # curr = p
+
+        # while(curr):
+        #     p_path.append(curr)
+        #     curr = curr.parent
+        
+        # print(p_path)
+
+        # q_path = []
+
+        # curr= q
+
+        # while(curr):
+        #     q_path.append(curr)
+        #     curr = curr.parent
+        
+        # print(q_path)
+
+        # for i in p_path:
+        #     if(i in q_path):
+        #         return i
+
         p_path = []
 
         curr = p
@@ -20,16 +44,11 @@ class Solution:
         
         print(p_path)
 
-        q_path = []
 
         curr= q
 
         while(curr):
-            q_path.append(curr)
-            curr = curr.parent
+            if(curr in p_path):
+                return curr
         
-        print(q_path)
-
-        for i in p_path:
-            if(i in q_path):
-                return i
+            curr = curr.parent
