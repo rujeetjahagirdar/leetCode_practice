@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1059-missing-element-in-sorted-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1059-missing-element-in-sorted-array) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1063-best-sightseeing-pair) |
@@ -643,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-friends-of-appropriate-ages](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0852-friends-of-appropriate-ages) |
 | [0907-koko-eating-bananas](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1023-time-based-key-value-store) |
+| [1046-max-consecutive-ones-iii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1059-missing-element-in-sorted-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1059-missing-element-in-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -710,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0940-fruit-into-baskets) |
+| [1046-max-consecutive-ones-iii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -728,6 +731,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
