@@ -17,4 +17,3 @@ class Solution:
                 if(i in rowSet or j in colSet):
                     matrix[i][j]=0
         
-        print(matrix)
