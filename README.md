@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0346-moving-average-from-data-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0346-moving-average-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0362-design-hit-counter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0362-design-hit-counter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0288-unique-word-abbreviation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0288-unique-word-abbreviation) |
 | [0290-word-pattern](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0290-word-pattern) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0355-design-twitter) |
 | [0359-logger-rate-limiter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0359-logger-rate-limiter) |
 | [0389-find-the-difference](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0389-find-the-difference) |
@@ -564,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0295-find-median-from-data-stream) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0451-sort-characters-by-frequency) |
@@ -700,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1014-k-closest-points-to-origin) |
 ## Sliding Window
@@ -825,6 +829,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -929,6 +934,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0692-top-k-frequent-words) |
@@ -1222,6 +1228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0692-top-k-frequent-words) |
 ## Number Theory
@@ -1255,6 +1262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1014-k-closest-points-to-origin) |
 ## Concurrency
 |  |
