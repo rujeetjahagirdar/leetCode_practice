@@ -405,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2383-add-two-integers) |
 | [2496-count-days-spent-together](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2496-count-days-spent-together) |
 | [2610-closest-prime-numbers-in-range](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2610-closest-prime-numbers-in-range) |
@@ -1039,6 +1040,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
