@@ -4,27 +4,32 @@ class Solution:
         j=0
         n=0
 
-        if(abbr.isnumeric()):
-            if(len(word)!=int(abbr)):
-                return False
-        
-        while(j<len(abbr) and i<len(word)):
-            if(abbr[j].isnumeric()):
-                if(n==0 and int(abbr[j])==0):
-                    return False
-                n=(10*n+int(abbr[j]))
-            
-            elif(abbr[j].isalpha()):
-                i+=n
-                n=0
-                if(i>=len(word) or word[i]!=abbr[j]):
-                    return False
-                i+=1
-            
-            j+=1
-        
-        if(i+n==len(word) and j==len(abbr)):
-            return True
-        else:
+        if(len(word)<len(abbr)):
             return False
-            
+
+        while(i<len(word) and j<len(abbr)):
+            if(abbr[j].isalpha()):
+                if(n>0):
+                    i+=n
+                    if(i>=len(word) or word[i]!=abbr[j]):
+                        return False
+                    n=0
+                    i+=1
+                else:
+                    if(word[i]==abbr[j]):
+                        i+=1
+                    else:
+                        return False
+            elif(abbr[j].isnumeric()):
+                if(n==0 and abbr[j]=='0'):
+                    return False
+                else:
+                    n = n*10 + int(abbr[j])
+            j+=1
+        if(n>0):
+            i+=n
+            n=0
+
+        if(i==len(word) and j==len(abbr)):
+            return True
+        return False
