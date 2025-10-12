@@ -1,25 +1,29 @@
 class Solution:
     def addStrings(self, num1: str, num2: str) -> str:
-        if(len(num1)<len(num2)):
-            num1=num1.rjust(len(num2), '0')
-        elif(len(num1)>len(num2)):
-            num2=num2.rjust(len(num1), '0')
-        
+        #first make both strings equal length by concatanating 0 before
+        #then traverse from right to left
+            #add number + carry
+            #update carry
+
+        #if carry remains:
+            #add it to end of ans
+        #return reversed ans
 
         ans=''
-        carry=0
 
-        for i in reversed(range(len(num1))):
-            sm = int(num1[i])+int(num2[i])+carry
-            carry=0
-            if(sm>=10):
-                carry = 1
-                ans+=str(sm%10)
-                # carry=0
-            else:
-                ans+=str(sm%10)
-            # print(ans)
-        if(carry==1):
-            return '1'+ans[::-1]
+        if(len(num1)<len(num2)):
+            num1 = num1.rjust(len(num2), '0')
+        if(len(num2)<len(num1)):
+            num2 = num2.rjust(len(num1), '0')
+        
+        carry = 0
+
+        for i in range(len(num1)-1, -1, -1):
+            n = int(num1[i]) + int(num2[i]) + carry
+            ans+=str(n%10)
+            carry = n//10
+        
+        if(carry>0):
+            ans+=str(carry)
+        
         return ans[::-1]
-            
