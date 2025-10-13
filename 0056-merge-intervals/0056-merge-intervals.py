@@ -1,17 +1,23 @@
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
-        ans = []
+        
+        #first sort input based on first value (start time)
+        #then use stack and append intervals my merging with stack -1
 
-        intervals = sorted(intervals, key= lambda x: x[0])
+        #TC : O(n logn)
+        #SP : O(n)
 
-        # print(intervals)
+        sorted_intervals = sorted(intervals, key= lambda x: x[0])
 
-        ans.append(intervals[0])
+        stack = [sorted_intervals[0]]
 
-        for i in range(1, len(intervals)):
-            if(ans[-1][1]>=intervals[i][0]):
-                ans[-1][1] = max(ans[-1][1], intervals[i][1])
+        for i in range(1, len(sorted_intervals)):
+            s, e = sorted_intervals[i]
+
+            if(stack[-1][0]<=s<=stack[-1][1]):
+                stack[-1][1] = max(stack[-1][1], e)
+            
             else:
-                ans.append(intervals[i])
-            # print(ans)
-        return ans
+                stack.append([s, e])
+        
+        return stack
