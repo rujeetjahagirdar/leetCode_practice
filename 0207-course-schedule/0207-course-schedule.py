@@ -1,34 +1,40 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        courses = {} #{prereq_course: [course1, course2, ....]}
-        indegree = {} #{course: number of prereq courses}
-        completed_courses = set()
+        
+        prereq_mapping = {}
 
         for i in range(numCourses):
-            courses[i]=[]
-            indegree[i]=0
+            prereq_mapping[i] = set()
+
+        if(len(prerequisites)==0):
+            return True
 
         for course, prereq in prerequisites:
-            courses[prereq].append(course)
-            indegree[course]+=1
+            prereq_mapping[prereq].add(course)
+           
+        print(prereq_mapping)
         
         q = deque()
+        completed_courses = set()
 
-        #find course with no prereq
-        for c in indegree:
-            if(indegree[c]==0):
-                q.append(c)
+        for course in prereq_mapping:
+            if(len(prereq_mapping[course])==0):
+                q.append(course)
+                completed_courses.add(course)
         
         while q:
-            c = q.popleft()
+            course = q.popleft()
 
-            #for all courses in which have c as prereq, reduce indegree by 1
-            for curs in courses[c]:
-                indegree[curs]-=1
-                
-                if indegree[curs]==0:
-                    q.append(curs)
-                
-            completed_courses.add(c)
-        
+            for c in prereq_mapping:
+                if(course in prereq_mapping[c]):
+                    prereq_mapping[c].remove(course)
+
+                    if(len(prereq_mapping[c])==0):
+                        q.append(c)
+                        completed_courses.add(c)
+
+        print(len(completed_courses))    
         return len(completed_courses)==numCourses
+        
+
+        
