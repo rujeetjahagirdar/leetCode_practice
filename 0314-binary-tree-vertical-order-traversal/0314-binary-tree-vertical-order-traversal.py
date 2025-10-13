@@ -7,24 +7,30 @@
 class Solution:
     def verticalOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
 
+
         if not root:
             return []
+        
+        column_node_mapping = defaultdict(list)
 
-        columnHash = defaultdict(list)
         q = deque([(root, 0)])
 
         while q:
-            n, col = q.popleft()
+            node, col = q.popleft()
 
-            columnHash[col].append(n.val)
+            column_node_mapping[col].append(node.val)
 
-            if(n.left):
-                q.append((n.left, col-1))
-            if(n.right):
-                q.append((n.right, col+1))
+            if(node.left):
+                q.append((node.left, col-1))
+            if(node.right):
+                q.append((node.right, col+1))
         
-        print(columnHash)
-        l=sorted(columnHash.keys())
-        print(l)
-        ans=[columnHash[i] for i in l]
+        # print(column_node_mapping)
+
+        ans = []
+
+        for i in sorted(column_node_mapping, key= lambda x: x):
+            ans.append(column_node_mapping[i])
+        
+        print(ans)
         return ans
