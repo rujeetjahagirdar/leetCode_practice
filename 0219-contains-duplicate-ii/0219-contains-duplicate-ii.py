@@ -4,9 +4,7 @@ class Solution:
 
         for i in range(len(nums)):
             if(nums[i] in hashM):
-                if(i-hashM[nums[i]] <=k):
+                if((i - hashM[nums[i]]) <=k):
                     return True
-                hashM[nums[i]]=i
-            else:
-                hashM[nums[i]]=i
+            hashM[nums[i]] = i
         return False
