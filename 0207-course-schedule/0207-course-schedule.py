@@ -1,6 +1,9 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         
+        #TC: O(number of courses + number of prereq)
+        #SC: O(number of courses + number of prereq)
+
         prereq_mapping = {}
 
         for i in range(numCourses):
@@ -26,7 +29,7 @@ class Solution:
             course = q.popleft()
 
             for c in prereq_mapping:
-                if(course in prereq_mapping[c]):
+                if(course in prereq_mapping[c]): #O(number of courses + number of prereq)
                     prereq_mapping[c].remove(course)
 
                     if(len(prereq_mapping[c])==0):
