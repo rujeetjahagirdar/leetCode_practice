@@ -294,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0169-majority-element) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0170-two-sum-iii-data-structure-design) |
@@ -1059,6 +1060,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0206-reverse-linked-list) |
