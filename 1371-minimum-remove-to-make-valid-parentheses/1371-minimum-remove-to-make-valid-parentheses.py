@@ -1,21 +1,25 @@
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
-        indices_to_remove = []
+        
+        removeIndex = []
+
+        #if opening add to stack
+        #if closing, if stack -1 is opening, pop stack
+                    # else add to stack
+        #make new string by removeing stack index
 
         for i in range(len(s)):
             if(s[i]=='('):
-                indices_to_remove.append(i)
+                removeIndex.append(i)
             elif(s[i]==')'):
-                if(len(indices_to_remove)>0 and s[indices_to_remove[-1]]=='('):
-                    indices_to_remove.pop()
+                if(removeIndex and s[removeIndex[-1]]=='('):
+                    removeIndex.pop()
                 else:
-                    indices_to_remove.append(i)
-        print(indices_to_remove)
-
+                    removeIndex.append(i)
         ans=''
+
         for i in range(len(s)):
-            if(i not in indices_to_remove):
+            if(i not in removeIndex):
                 ans+=s[i]
         
-        print(ans)
         return ans
