@@ -6,7 +6,8 @@
 #         self.right = right
 class Solution:
     def verticalOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-
+        #TC: O(n logn)
+        #SC: O(n)
 
         if not root:
             return []
