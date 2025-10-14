@@ -1,33 +1,28 @@
 class Solution:
     def groupStrings(self, strings: List[str]) -> List[List[str]]:
         
-        groups = {}
+        #-1 -> 25
+        #find number of shits based on first char
+        #and shift all other chars by this no of shits backword
+            #if this results in number less than ord('a') then add 26
 
-        for i in range(len((strings))):
-            shiftedStr = ''
+        #TC: O(no of strings * max of length of each string)
+        #SC: O(no of strings * max of length of each string)
 
-            if(strings[i][0]!='a'):
-                #shift the string
-                noOfShits = ord(strings[i][0]) - ord('a')
+        hashM = defaultdict(list)
 
-                # shiftedStr = ''
-                for c in strings[i]:
-                    zeroBasedIndex = ord(c)-ord('a')
-                    shiftedIndex = zeroBasedIndex - noOfShits
-                    roundedIndex = (shiftedIndex)%26 + ord('a')
-                    shiftedStr+=chr(roundedIndex)
-                print(strings[i], shiftedStr)
+        for string in strings:
+            if(string[0]=='a'):
+                hashM[string].append(string)
             else:
-                shiftedStr = strings[i]
-            
-            if(shiftedStr in groups):
-                groups[shiftedStr].append(strings[i])
-            else:
-                groups[shiftedStr] = [strings[i]]
-            # print(groups)
-            
-        ans=[]
-
-        for i in groups:
-            ans.append(groups[i])
-        return ans
+                newStr = ''
+                noOfShifts = ord(string[0]) - ord('a') #no of shifts based on first char
+                for c in string:
+                    newC = ord(c) - noOfShifts
+                    if(newC<ord('a')):
+                        newC = newC + 26
+                    newStr+= chr(newC)
+                
+                hashM[newStr].append(string)
+        
+        return list(hashM.values())
