@@ -8,38 +8,46 @@ class Node:
 
 class Solution:
     def insert(self, head: 'Optional[Node]', insertVal: int) -> 'Node':
-        
+        #three cases
+            #case 1 can be inserted in betwenn linked list
+            #cse2 need to insert at end of list after last element of the list
+            #case 3: all elements equal of list, insert at anywhere
+        #use two pointer
+
+        #NOTE: Head would be anywhere in the list, not necesossrly at lowest element
+
         if not head:
-            n = Node(insertVal)
-            n.next = n
-            return n
+            newNode = Node(insertVal)
+            newNode.next = newNode
 
-        
+            return newNode
+
+        curr = head
         forward = head.next
-        current = head
 
-        while True:
-            if(current.val<=insertVal<=forward.val):
-                n = Node(insertVal, forward)
-                current.next = n
+        while(forward!=head):
+            if(curr.val<=insertVal<=forward.val):
+                newNode = Node(insertVal)
+                newNode.next = forward
+                curr.next = newNode
 
-                return head
-            
-            elif(forward.val<current.val):
-                if(insertVal>=current.val or insertVal<=forward.val):
-                    n = Node(insertVal, forward)
-                    current.next = n
-
-                    return head
-
-            current = current.next
-            forward = forward.next        
-
-            if current==head:
                 break
+            
+            if(curr.val>forward.val): #wrap around location 
+                if(insertVal>=curr.val or insertVal<=forward.val):
+                    newNode = Node(insertVal)
+                    newNode.next = forward
+                    curr.next = newNode
+
+                    break
+            
+            curr = curr.next
+            forward = forward.next
         
-        #all nodes equal
-        n = Node(insertVal, forward)
-        current.next = n
+        #if we could not find location
+
+        newNode = Node(insertVal)
+        newNode.next = forward
+        curr.next = newNode
 
         return head
