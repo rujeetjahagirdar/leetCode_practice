@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0359-logger-rate-limiter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0389-find-the-difference) |
+| [0398-random-pick-index](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0451-sort-characters-by-frequency) |
@@ -397,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0398-random-pick-index](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0398-random-pick-index) |
 | [0415-add-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0415-add-strings) |
 | [0670-maximum-swap](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0670-maximum-swap) |
 | [0912-random-pick-with-weight](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0912-random-pick-with-weight) |
@@ -1343,5 +1345,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0398-random-pick-index](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0398-random-pick-index) |
 | [0912-random-pick-with-weight](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0912-random-pick-with-weight) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
