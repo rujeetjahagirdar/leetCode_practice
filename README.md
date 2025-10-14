@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0912-random-pick-with-weight) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0952-word-subsets) |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0415-add-strings) |
 | [0670-maximum-swap](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0670-maximum-swap) |
+| [0912-random-pick-with-weight](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -678,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0792-binary-search) |
 | [0852-friends-of-appropriate-ages](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0852-friends-of-appropriate-ages) |
 | [0907-koko-eating-bananas](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1059-missing-element-in-sorted-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1059-missing-element-in-sorted-array) |
@@ -769,6 +772,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0724-find-pivot-index) |
+| [0912-random-pick-with-weight](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -1339,4 +1343,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0912-random-pick-with-weight](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
