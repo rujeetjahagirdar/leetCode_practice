@@ -1,37 +1,35 @@
 class Solution:
     def exclusiveTime(self, n: int, logs: List[str]) -> List[int]:
-        ans = [0]*n
-        stack = []
-        prev = 0
+        #use stack to keep track of executions
+        #if end log occurs, then it will definitely will be for function on top on execution stack
+
+        #TC: O(n)
+        #SC: O(ns)
+
+        ans=[0]*n
+        executionStack = [] #(function_id, start_time)
 
         for i in range(len(logs)):
             log = logs[i].split(":")
             f_id = int(log[0])
-            ops = log[1]
-            log_time = int(log[2])
+            operation = log[1]
+            time = int(log[2])
 
-            if(len(stack)==0):
-                #assuming first will be start operation
-                stack.append(f_id)
-                prev = log_time
-            else:
-                if(ops=='start'):
+            if(operation=='start'):
+                if(not executionStack):
+                    executionStack.append((f_id, time))
+                else:
                     #stop previous function
-                    #update exclusive time for previous function
-                    #update prev, time at which next function can start
-                    #update stack
+                    #append this functino
+                    ans[executionStack[-1][0]] += (time - executionStack[-1][1])
+                    executionStack.append((f_id, time))
+            else:
+                #stop stack top function
+                #pop stack top function
+                ans[executionStack[-1][0]] += (time - executionStack[-1][1] +1)
+                executionStack.pop()
 
-                    ans[stack[-1]]+=(log_time - prev)
-                    prev = log_time
-                    stack.append(f_id)
-
-                elif(ops=='end'):
-                    #update exclusive time for previous function
-                    #pop from stack
-                    #update prev, time at which next function can start
-
-                    ans[stack[-1]]+= (log_time-prev+1)
-                    prev = log_time+1
-                    stack.pop()
+                #if(is there is stopped function in executionStack, start it by updating its time to current time +1)
+                if(executionStack):
+                    executionStack[-1] = (executionStack[-1][0], time+1)
         return(ans)
-                
