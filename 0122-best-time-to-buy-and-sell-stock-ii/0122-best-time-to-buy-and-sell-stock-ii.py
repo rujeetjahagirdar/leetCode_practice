@@ -6,14 +6,24 @@ class Solution:
 
         #[1,3,1,5,1]
 
-        for i in range(1, len(prices)):
-            if(prices[i]<=lastBuyPrice):
-                lastBuyPrice = prices[i]
-            else:
-                profit = prices[i] - lastBuyPrice
+        # for i in range(1, len(prices)):
+        #     if(prices[i]<=lastBuyPrice):
+        #         lastBuyPrice = prices[i]
+        #     else:
+        #         profit = prices[i] - lastBuyPrice
 
-                ans+=profit
-                lastBuyPrice = prices[i]
+        #         ans+=profit
+        #         lastBuyPrice = prices[i]
+
+        
+        # return ans
+
+
+        for i in range(1, len(prices)):
+            if(prices[i]>lastBuyPrice):
+                ans+=(prices[i]-lastBuyPrice)
+            
+            lastBuyPrice = prices[i]
 
         
         return ans
