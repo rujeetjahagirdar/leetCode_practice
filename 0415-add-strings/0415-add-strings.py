@@ -9,6 +9,9 @@ class Solution:
             #add it to end of ans
         #return reversed ans
 
+        #TC: O(max of length of num1, num2)
+        #SC: O((max of length of num1, num2) + 1)
+
         ans=''
 
         if(len(num1)<len(num2)):
