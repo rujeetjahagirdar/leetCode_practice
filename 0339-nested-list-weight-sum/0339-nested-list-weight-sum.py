@@ -57,10 +57,13 @@ class Solution:
                     depth_sum+=l.getInteger()*depth
                 else:
                     dfs(l.getList(), depth+1)
+                    # depth_sum+=dfs(l.getList(), depth+1)
 
             self.ans+=depth_sum
+            # return depth_sum
         
-
+        
         dfs(nestedList, 1)
+        # self.ans=dfs(nestedList, 1)
 
         return self.ans
