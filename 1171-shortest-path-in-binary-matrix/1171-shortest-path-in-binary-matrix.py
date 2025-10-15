@@ -1,34 +1,30 @@
 class Solution:
     def shortestPathBinaryMatrix(self, grid: List[List[int]]) -> int:
-
-        #edge case, when (0,0) element is 1 or last element is 1
-
         
-        directions = [(1,0), (0,1), (1,1), (-1, 0), (0, -1), (-1, -1), (-1, 1), (1, -1)]
+        #dfs
 
-        visited = set()
-
-        m = len(grid)-1
-        n = len(grid[0])-1
-
-
-        if(grid[0][0]==1 or grid[m][n]==1):
+        if(grid[0][0]==1 or grid[-1][-1]==1):
             return -1
-
+        
+        directions = [(0,1), (0,-1), (1,0), (1,1), (-1, 0), (-1, -1), (1, -1), (-1, 1)]
+        visited = set()
+        self.ans=0
 
         q = deque()
-        q.append((0,0, 1))
+        q.append((0, 0, 1))
 
         while q:
+            i, j, path_length = q.popleft()
 
-            x, y, length = q.popleft()
-            if(x==m and y==n):
-                return length
+            if(i==len(grid)-1 and j==len(grid[0])-1):
+                return path_length
             
             for direction in directions:
-                newx, newy = x+direction[0], y+direction[1]
+                newi, newj = i+direction[0], j+direction[1]
 
-                if(0<=newx<=m and 0<=newy<=n and (newx, newy) not in visited and grid[newx][newy]==0):
-                    q.append((newx, newy, length+1))
-                    visited.add((newx, newy))
+                if(0<=newi<=len(grid)-1 and 0<=newj<=len(grid[0])-1 and (newi, newj) not in visited and grid[newi][newj]==0):
+                    q.append((newi, newj, path_length+1))
+                    visited.add((newi, newj))        
+        
+
         return -1
