@@ -6,30 +6,28 @@
 #         self.right = right
 class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
-        ans=[]
+        
+        #dfs, top down
+        #when leaf occurs, add number to gloabl total
 
         if not root:
-            return ''
-        
-        def dfs(root, tNum):
+            return 0
 
-            if not root:
-                return ''
+        self.ans=0
+
+        def traverse(node, n):
+            if not node:
+                return
             
-            tNum +=str(root.val)
-
-            if(not root.left and not root.right):
-                ans.append(tNum)
-                print(ans)
+            current_num = n*10 + node.val
+            
+            if(not node.left and not node.right):
+                self.ans+=current_num
+            
+            traverse(node.left, current_num)
+            traverse(node.right, current_num)
         
-            dfs(root.left, tNum)
-            dfs(root.right, tNum)
-            return 
 
+        traverse(root, 0)
 
-        dfs(root, '')
-
-        a = 0
-        for i in ans:
-            a+=int(i)
-        return a
+        return self.ans
