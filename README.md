@@ -477,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1894-merge-strings-alternately](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2232-adding-spaces-to-a-string) |
@@ -556,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [1894-merge-strings-alternately](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1970-sorting-the-sentence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
