@@ -1,60 +1,61 @@
 class Solution:
     def largestIsland(self, grid: List[List[int]]) -> int:
-        # islandMap = defaultdict(set)
-        islandSize = defaultdict(int) 
+        #mark all islands by their ids
+        #store island id to size mapping
 
-        isLandId = 1000
+        #trace all 0s, and check if there are any neighbouring islands, if yes, summ their sizes
+
+        islandId = 100
+        islandSize = {}
+
+        #mark all islands, dfs
 
         visited = set()
-        directions = [(1,0), (-1,0), (0,1), (0,-1)]
+        directions = [(0,1), (1,0), (0,-1), (-1, 0)]
 
         def dfs(i, j, iId):
             size=1
-            visited.add((i, j))
-            # islandMap[iId].add((i, j))
             grid[i][j]=iId
+
             for direction in directions:
                 newi, newj = i+direction[0], j+direction[1]
-                if(0<=newi<len(grid) and 0<=newj<len(grid[0]) and (newi, newj) not in visited and grid[newi][newj]==1):
-                    # islandMap[iId].add((newi, newj))
-                    size +=dfs(newi, newj, iId)
+                
+                if(0<=newi<len(grid) and 0<=newj<len(grid[0]) and grid[newi][newj]==1):
+                    size+=dfs(newi, newj, iId)
 
-            return size        
+            return size
 
         for i in range(len(grid)):
             for j in range(len(grid[0])):
-                if((i, j) not in visited and grid[i][j]==1):
-                    visited.add((i, j))
-                    # islandMap[isLandId].add((i, j))
-                    # print(islandMap[isLandId])
-                    s=dfs(i, j, isLandId)
-                    islandSize[isLandId]=s
-                    isLandId+=1
+                if(grid[i][j]==1):
+                    iSize = dfs(i, j, islandId)
+
+                    islandSize[islandId] = iSize
+
+                    islandId+=1
         
-        # print(islandMap)
         print(islandSize)
         print(grid)
 
         ans=float("-inf")
 
-        #for each 0, 
-            #check if there are neighbouring islands
-        
-        if(len(islandSize)==1 and islandSize[1000]==(len(grid)*len(grid))):
-            return islandSize[1000]
-
         for i in range(len(grid)):
             for j in range(len(grid[0])):
                 if(grid[i][j]==0):
-                    t=1
-                    neighbourIslands = set()
+                    if(not islandSize): #no islands
+                        return 1
+                    #ceck neighiurs
+                    neighbourSize=0
+                    visitedNeighbour = set()
                     for direction in directions:
-                        ni, nj = i+direction[0], j+direction[1]
-                        if(0<=ni<len(grid) and 0<=nj<len(grid[0]) and grid[ni][nj]>=1000 and grid[ni][nj] not in neighbourIslands): #is part of any island
-                            neighbourIslands.add(grid[ni][nj])
-                            t+=islandSize[grid[ni][nj]]
-                    
-                    ans=max(ans, t)
+                        neighbouri, neighbourj = i+direction[0], j+direction[1]
+                        if(0<=neighbouri<len(grid) and 0<=neighbourj<len(grid[0]) and grid[neighbouri][neighbourj] not in visitedNeighbour and grid[neighbouri][neighbourj]>=100):
+                            visitedNeighbour.add(grid[neighbouri][neighbourj])
+                            neighbourSize+=islandSize[grid[neighbouri][neighbourj]]
+                    ans = max(ans, neighbourSize+1)
         
         print(ans)
+        if(ans==float("-inf") and islandSize):
+            ans = islandSize[100]
+        
         return ans
