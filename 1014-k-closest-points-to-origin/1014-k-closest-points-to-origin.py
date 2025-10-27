@@ -1,25 +1,20 @@
 class Solution:
     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
         
-        #for finding smallest k elements we use max heap
-        #and to find largest k elements we use min heap
-
         max_heap = []
+        ans=[]
 
         for x, y in points:
-            dist = math.sqrt(x*x + y*y)
+            d = math.sqrt(x**2 + y**2)
 
             if(len(max_heap)<k):
-                heapq.heappush(max_heap, (-dist, (x, y)))
+                heapq.heappush(max_heap, (-d, x, y))
             else:
-                if(dist>= -max_heap[0][0]):
-                    continue
-                else:
+                if(d<-max_heap[0][0]):
                     heapq.heappop(max_heap)
-                    heapq.heappush(max_heap, (-dist, (x, y)))
-        ans = []
-
-        while max_heap:
-            ans.append(heapq.heappop(max_heap)[1])
+                    heapq.heappush(max_heap, (-d, x, y))
+        
+        for d, x, y in max_heap:
+            ans.append([x, y])
         
         return ans
