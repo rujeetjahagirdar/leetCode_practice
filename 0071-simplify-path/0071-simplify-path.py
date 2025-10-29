@@ -1,20 +1,20 @@
 class Solution:
     def simplifyPath(self, path: str) -> str:
-        stack=[]
+        ans=[]
 
-        paths = path.split("/")
-        #/home//foo/
-        #['', home, '',foo]
+        folders = path.split('/')
 
-        for p in paths:
-            if(p==".."):
-                if(len(stack)>0):
-                    stack.pop()
-            elif(p=='' or p=='.'):
-                continue
+        for f in folders:
+            if(f==''):
+                pass
+            elif(f=='..'):
+                if(ans):
+                    ans.pop()
+            elif(f=='.'):
+                pass
             else:
-                stack.append(p)
-        print(stack)
-
-        return '/'+'/'.join(stack)
+                ans.append(f)
         
+        print(ans)
+
+        return "/"+"/".join(ans)
