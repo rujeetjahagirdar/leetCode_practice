@@ -3,17 +3,11 @@ class Solution:
         
         min_heap = []
 
-
-        for i in range(len(nums)):
+        for i in nums:
             if(len(min_heap)<k):
-                heapq.heappush(min_heap, nums[i])
+                heapq.heappush(min_heap, i)
             else:
-                if(nums[i]<min_heap[0]):
-                    # print(nums[i], min_heap[-1],nums[i]<min_heap[0])
-                    continue
-                else:
+                if(i>min_heap[0]):
                     heapq.heappop(min_heap)
-                    heapq.heappush(min_heap, nums[i])
-            # print(min_heap)
-        
+                    heapq.heappush(min_heap, i)
         return min_heap[0]
