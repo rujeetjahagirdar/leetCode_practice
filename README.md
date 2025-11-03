@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0070-climbing-stairs) |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0065-valid-number) |
@@ -647,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0094-binary-tree-inorder-traversal) |
