@@ -298,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0133-clone-graph) |
@@ -506,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0127-word-ladder) |
@@ -767,6 +769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0424-longest-repeating-character-replacement) |
