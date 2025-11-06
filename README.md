@@ -672,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0536-construct-binary-tree-from-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0536-construct-binary-tree-from-string) |
 | [0636-exclusive-time-of-functions](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0739-daily-temperatures) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0883-car-fleet) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -956,6 +957,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0975-range-sum-of-bst) |
@@ -997,6 +999,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0975-range-sum-of-bst) |
@@ -1108,6 +1111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0355-design-twitter) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0850-insert-into-a-sorted-circular-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0850-insert-into-a-sorted-circular-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1196,6 +1200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0684-redundant-connection](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0695-max-area-of-island) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0820-find-eventual-safe-states](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1276,6 +1281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0975-range-sum-of-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0975-range-sum-of-bst) |
 ## Queue
 |  |
@@ -1403,4 +1409,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1028-interval-list-intersections) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 <!---LeetCode Topics End-->
