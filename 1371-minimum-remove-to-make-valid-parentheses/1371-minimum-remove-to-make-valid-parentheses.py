@@ -15,9 +15,10 @@ class Solution:
                     else:
                         removeIndex.append(i)
         # print(removeIndex)
+        removeIndexSet = set(removeIndex)
         ans = ''
         for i in range(len(s)):
-            if(i not in removeIndex):
+            if(i not in removeIndexSet):
                 ans+=s[i]
         
         return ans
