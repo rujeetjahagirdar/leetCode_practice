@@ -6,32 +6,36 @@
 #         self.right = right
 class Solution:
     def verticalOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        #TC: O(n logn)
-        #SC: O(n)
+        
+        #bfs, top-down
+        ans=[]
+        result = defaultdict(list)
+        
+        def bfs(node):
+            q = deque()
+            q.append((node, 0)), #root node
 
+            while q:
+                for _ in range(len(q)):
+                    n, col = q.popleft()
+                    result[col].append(n.val)
+
+                    if(n.left):
+                        q.append((n.left, col-1))
+                    if(n.right):
+                        q.append((n.right, col+1))
+            
+        
         if not root:
             return []
+
+        bfs(root)
+
+        print(result)
+
+        sorted_idx = sorted(result, key= lambda x: x)
+
+        for idx in sorted_idx:
+            ans.append(result[idx])
         
-        column_node_mapping = defaultdict(list)
-
-        q = deque([(root, 0)])
-
-        while q:
-            node, col = q.popleft()
-
-            column_node_mapping[col].append(node.val)
-
-            if(node.left):
-                q.append((node.left, col-1))
-            if(node.right):
-                q.append((node.right, col+1))
-        
-        # print(column_node_mapping)
-
-        ans = []
-
-        for i in sorted(column_node_mapping, key= lambda x: x):
-            ans.append(column_node_mapping[i])
-        
-        print(ans)
-        return ans
+        return(ans)
