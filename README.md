@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2089-maximum-matrix-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1775-design-an-ordered-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1775-design-an-ordered-stream) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1813-maximum-erasure-value](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1813-maximum-erasure-value) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2107-find-unique-binary-string) |
 | [2169-simple-bank-system](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2169-simple-bank-system) |
@@ -754,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1708-design-parking-system](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1708-design-parking-system) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1775-design-an-ordered-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1775-design-an-ordered-stream) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2169-simple-bank-system](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2169-simple-bank-system) |
 | [2434-design-a-number-container-system](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2434-design-a-number-container-system) |
 | [2587-design-memory-allocator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2587-design-memory-allocator) |
