@@ -1352,6 +1352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0046-permutations) |
 | [0494-target-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0800-letter-case-permutation) |
+| [0865-robot-room-cleaner](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0865-robot-room-cleaner) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2107-find-unique-binary-string) |
@@ -1417,4 +1418,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0865-robot-room-cleaner](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0865-robot-room-cleaner) |
 <!---LeetCode Topics End-->
