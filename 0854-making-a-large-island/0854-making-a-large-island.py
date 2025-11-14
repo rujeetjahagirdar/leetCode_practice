@@ -1,61 +1,70 @@
 class Solution:
     def largestIsland(self, grid: List[List[int]]) -> int:
-        #mark all islands by their ids
-        #store island id to size mapping
+        
+        #keep a mapping for islandID: size
+        #for every 0, check if there are any neighbouring islands.
 
-        #trace all 0s, and check if there are any neighbouring islands, if yes, summ their sizes
+        #dfs, bottom-up
 
-        islandId = 100
-        islandSize = {}
-
-        #mark all islands, dfs
-
-        visited = set()
-        directions = [(0,1), (1,0), (0,-1), (-1, 0)]
+        #[1,0]
+        #[1,1]
 
         def dfs(i, j, iId):
-            size=1
+            iSize = 1
             grid[i][j]=iId
 
             for direction in directions:
-                newi, newj = i+direction[0], j+direction[1]
-                
-                if(0<=newi<len(grid) and 0<=newj<len(grid[0]) and grid[newi][newj]==1):
-                    size+=dfs(newi, newj, iId)
+                new_i, new_j = i+direction[0], j+direction[1]
 
-            return size
-
-        for i in range(len(grid)):
-            for j in range(len(grid[0])):
-                if(grid[i][j]==1):
-                    iSize = dfs(i, j, islandId)
-
-                    islandSize[islandId] = iSize
-
-                    islandId+=1
+                if(0<=new_i<len(grid) and 0<=new_j<len(grid[0]) and grid[new_i][new_j]==1):
+                    iSize += dfs(new_i, new_j, iId)
+            
+            return iSize
         
-        print(islandSize)
-        print(grid)
-
+        islandSizeMap = {}
+        islandId = 100
+        directions = [(0,1), (0, -1), (1, 0), (-1, 0)]
         ans=float("-inf")
 
         for i in range(len(grid)):
             for j in range(len(grid[0])):
+                if(grid[i][j]==1):
+                    islandSize = dfs(i, j, islandId)
+
+                    islandSizeMap[islandId] = islandSize
+                    islandId+=1
+        print(islandSizeMap)
+        print(grid)
+
+
+        for i in range(len(grid)):
+            for j in range(len(grid[0])):
                 if(grid[i][j]==0):
-                    if(not islandSize): #no islands
+                    if(len(islandSizeMap)==0): #case:all water
                         return 1
-                    #ceck neighiurs
-                    neighbourSize=0
-                    visitedNeighbour = set()
+                        
+                    totalSize=0
+                    visited_neighbours = set()
+                    #check neighbours
                     for direction in directions:
-                        neighbouri, neighbourj = i+direction[0], j+direction[1]
-                        if(0<=neighbouri<len(grid) and 0<=neighbourj<len(grid[0]) and grid[neighbouri][neighbourj] not in visitedNeighbour and grid[neighbouri][neighbourj]>=100):
-                            visitedNeighbour.add(grid[neighbouri][neighbourj])
-                            neighbourSize+=islandSize[grid[neighbouri][neighbourj]]
-                    ans = max(ans, neighbourSize+1)
+                        newi, newj = i+direction[0], j+direction[1]
+
+                        if(0<=newi<len(grid) and 0<=newj<len(grid) and grid[newi][newj] not in visited_neighbours and grid[newi][newj]>=100):
+                            visited_neighbours.add(grid[newi][newj])
+                            totalSize += islandSizeMap[grid[newi][newj]]
+                        
+                        print(visited_neighbours)
+                    
+                    ans = max(ans, totalSize+1)
         
-        print(ans)
-        if(ans==float("-inf") and islandSize):
-            ans = islandSize[100]
+
+        #case:all island
+        if(ans==float("-inf") and len(islandSizeMap)==1): #no 0 found in grid
+            return islandSizeMap[100]
+
+        # #case:all water
+        # if(len(islandSizeMap)==0):
+        #     return 1
+        
         
         return ans
