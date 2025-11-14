@@ -13,20 +13,12 @@ class Solution:
             aStart = max(firstList[i][0], secondList[j][0])
             aEnd = min(firstList[i][1], secondList[j][1])
 
-            if(aStart<=aEnd):
+            if(aStart<=aEnd): #check if overlap exists
                 ans.append([aStart, aEnd])
 
-            if(firstList[i][1]<secondList[j][1]):
+            if(firstList[i][1]<=secondList[j][1]):
                 i+=1
             else:
                 j+=1
-        # #check remaining in first list
-        # while(i<len(firstList)-1):
-        #     ans.append(firstList[i])
-        #     i+=1
-        # #check remaining in second list
-        # while(j<len(secondList)-1):
-        #     ans.append(secondList[j])
-        #     j+=1
         
         return(ans)
