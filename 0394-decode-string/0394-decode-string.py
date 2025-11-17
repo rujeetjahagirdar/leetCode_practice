@@ -56,6 +56,7 @@ class Solution:
                     tempStr=''
                     while(stack[-1]!='['):
                         tempStr+=stack.pop()
+                        # tempStr+=stack.pop()[::-1], method 2
                     tempStr = tempStr[::-1] #reverse the string
                     stack.pop() #ignore opening bracket
                     freq = stack.pop() #get freq
@@ -63,6 +64,8 @@ class Solution:
 
                     for c in tempStr:
                         stack.append(c)
+                    # stack.append(tempStr) , method 2
+            print(stack)
                     
             
             # print(stack)
