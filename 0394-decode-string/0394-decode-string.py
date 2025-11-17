@@ -31,6 +31,11 @@ class Solution:
 
         #############################
 
+        #approach 2: using one stack
+        #parse the string, push number, opening bracket and chars on stack, when closing bracket occurs, pop from stack until opening bracket, then decode string by frequency and again push this string(from left to right) on stack and continue this process
+        #in the end, answer will be the stack
+        #NOTE: when opening bracket occurs, push the current number on the stack and make number 0
+
         stack = []
 
         i=0
@@ -39,9 +44,7 @@ class Solution:
 
             #check digit
             if(s[i].isnumeric()):
-                # while(s[i].isnumeric()):
                 n = n*10+int(s[i])
-                    # i+=1
             else:
                 if(s[i]=='['):
                     stack.append(n)
@@ -60,6 +63,7 @@ class Solution:
 
                     for c in tempStr:
                         stack.append(c)
+                    
             
             # print(stack)
             i+=1
