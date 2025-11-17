@@ -3,16 +3,16 @@ class Solution:
         
         #use cummulative sum counter
 
-        cummSumCounter = {0: 1}
-        cummSum = 0
+        cummulativeSum=0
+        cummulativeSumFreq = {0: 1}
         ans=0
 
-        for n in nums:
-            cummSum+=n
+        for i in nums:
+            cummulativeSum+=i
 
-            if((cummSum - k) in cummSumCounter):
-                ans+=cummSumCounter[(cummSum - k)]
+            if((cummulativeSum - k) in cummulativeSumFreq):
+                ans+=cummulativeSumFreq[(cummulativeSum - k)]
             
-            cummSumCounter[cummSum] = cummSumCounter.get(cummSum, 0)+1
+            cummulativeSumFreq[cummulativeSum] = cummulativeSumFreq.get(cummulativeSum, 0) +1
         
-        return(ans)
+        return ans
