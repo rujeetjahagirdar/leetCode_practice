@@ -19,9 +19,6 @@ class Solution:
         while q:
             i, j = q.popleft()
 
-            # if(board[i][j]!='E'):
-            #     continue
-
             #check number of mines in neighbours
             nMine = 0
 
@@ -29,9 +26,8 @@ class Solution:
                 newi, newj = i+direction[0], j+direction[1]
 
                 if(0<=newi<len(board) and 0<=newj<len(board[0]) and board[newi][newj]=='M'):
-                    # board[newi][newj]='B'
                     nMine+=1
-            # print(i, j, nMine)
+            
             if(nMine>0):
                 board[i][j]=str(nMine)
             else:
