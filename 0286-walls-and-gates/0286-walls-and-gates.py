@@ -3,21 +3,29 @@ class Solution:
         """
         Do not return anything, modify rooms in-place instead.
         """
+        
+        #multipoint bfs
+
         q = deque()
-        directions = [(0, 1), (0, -1), (1,0), (-1,0)]
+        visited = set()
+
+        directions = [(0, 1), (1,0), (0, -1), (-1, 0)]
 
         for i in range(len(rooms)):
             for j in range(len(rooms[0])):
                 if(rooms[i][j]==0):
+                    visited.add((i, j))
                     q.append((i, j, 0))
         
-
         while q:
-            r, c, l = q.popleft()
-            
-            for direction in directions:
-                newr, newc = r+direction[0], c+direction[1]
+            i, j, d = q.popleft()
 
-                if(newr>=0 and newr<len(rooms) and newc>=0 and newc<len(rooms[0]) and rooms[newr][newc]==2147483647):
-                    rooms[newr][newc]=l+1
-                    q.append((newr, newc, l+1))
+            rooms[i][j]=d
+
+            for direction in directions:
+                newi, newj = i+direction[0], j+direction[1]
+
+                if(0<=newi<len(rooms) and 0<=newj<len(rooms[0]) and (newi, newj) not in visited and rooms[newi][newj] not in (0, -1)):
+                    visited.add((newi, newj))
+                    q.append((newi, newj, d+1))
+        
