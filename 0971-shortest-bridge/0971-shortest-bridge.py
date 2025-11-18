@@ -22,10 +22,9 @@ class Solution:
                     dfs(i, j, iId)
                     iId+=1
         
-        print(grid)
+        # print(grid)
 
         #multipoint bfs
-
         q = deque()
         visited = set()
         ans=float("inf")
@@ -39,16 +38,14 @@ class Solution:
         while q:
             i, j, d = q.popleft()
             #if another island reached, update anser
-            #else
+            #elif current (i, j) is water,
                 #increase distance
-                #explore neighbours, if water, add to queue
+            #explore neighbours, if water, add to queue
             if(grid[i][j]==0):
                 d+=1
             if(grid[i][j]==101):
                 ans = min(ans, d)
-            
-            # d=d+1
-
+                continue
             for direction in directions:
                 newi, newj = i+direction[0], j+direction[1]
 
