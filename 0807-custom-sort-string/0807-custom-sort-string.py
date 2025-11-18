@@ -8,7 +8,7 @@ class Solution:
         #SC: O(length of s)
 
         c = Counter(s)
-        #{'a':1, 'b':1, 'c':1, 'd':1}
+
         ans=''
 
         for i in order:
@@ -21,4 +21,4 @@ class Solution:
                 ans+=i*c[i]
                 c[i]=0
         
-        return ans
+        return(ans)
