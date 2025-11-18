@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Dynamic Programming
 |  |
@@ -601,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3396-valid-word](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3447-clear-digits) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1046,6 +1048,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3242-count-elements-with-maximum-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3324-split-the-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3324-split-the-array) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
