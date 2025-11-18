@@ -27,7 +27,7 @@ class Solution:
         #multipoint bfs
         q = deque()
         visited = set()
-        ans=float("inf")
+        # ans=float("inf")
 
         for i in range(len(grid)):
             for j in range(len(grid[0])):
@@ -44,8 +44,8 @@ class Solution:
             if(grid[i][j]==0):
                 d+=1
             if(grid[i][j]==101):
-                ans = min(ans, d)
-                continue
+                # ans = min(ans, d)
+                return d
             for direction in directions:
                 newi, newj = i+direction[0], j+direction[1]
 
@@ -53,4 +53,4 @@ class Solution:
                     visited.add((newi, newj))
                     q.append((newi, newj, d))
 
-        return(ans)
+        # return(ans)
