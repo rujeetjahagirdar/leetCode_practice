@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0636-exclusive-time-of-functions](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0636-exclusive-time-of-functions) |
 | [0658-find-k-closest-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0739-daily-temperatures) |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0807-custom-sort-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -550,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0807-custom-sort-string) |
@@ -635,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0807-custom-sort-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0807-custom-sort-string) |
 | [0852-friends-of-appropriate-ages](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0852-friends-of-appropriate-ages) |
@@ -1218,6 +1222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0684-redundant-connection](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0721-accounts-merge) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0820-find-eventual-safe-states](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0854-making-a-large-island) |
@@ -1263,6 +1268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0721-accounts-merge) |
 | [0820-find-eventual-safe-states](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1289,6 +1295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
