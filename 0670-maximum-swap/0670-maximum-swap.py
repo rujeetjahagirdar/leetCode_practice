@@ -1,25 +1,29 @@
 class Solution:
     def maximumSwap(self, num: int) -> int:
-        strNum = list(str(num))
-
-        mxTill = [-1]*len(strNum)
-        mx = (strNum[-1], len(strNum)-1)
-        mxTill[-1]=mx
         
-        for i in range(len(strNum)-2, -1, -1):
-            if(int(strNum[i])>int(mx[0])):
-                mxTill[i] = (int(strNum[i]), i)
-                mx = (int(strNum[i]), i)
+        #preprocess, keep track of max element till now from right to left
+        #traverse from left to right, if max number available to right replace it
+        
+        numStr = [int(i) for i in list(str(num))]
+
+        maxTill = [None]*len(numStr)
+        mx = (numStr[-1], len(numStr)-1)
+
+        for i in range(len(numStr)-1, -1, -1):
+            if(numStr[i]>mx[0]):
+                maxTill[i] = (numStr[i], i)
+                mx = (numStr[i], i)
             else:
-                mxTill[i]= mx
+                maxTill[i] = mx
         
-        print(mxTill)
+        for i in range(len(numStr)):
+            if(maxTill[i][0]>numStr[i]):
+                numStr[i], numStr[maxTill[i][1]] = numStr[maxTill[i][1]], numStr[i]
+                break
 
-        ans=''
+        # print(numStr)
+        ans=0
 
-        for i in range(len(strNum)):
-            if(int(mxTill[i][0])>int(strNum[i])):
-                strNum[i], strNum[mxTill[i][1]] = str(mxTill[i][0]), strNum[i]
-                print(strNum)
-                return int(''.join(strNum))
-        return int(''.join(strNum))
+        for i in numStr:
+            ans = ans*10+i
+        return(ans)
