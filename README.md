@@ -1439,6 +1439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0177-nth-highest-salary) |
+| [3910-find-books-with-no-available-copies](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3910-find-books-with-no-available-copies) |
 ## Randomized
 |  |
 | ------- |
