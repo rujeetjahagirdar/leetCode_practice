@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-alternating-groups-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3639-zero-array-transformation-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -845,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2714-left-and-right-sum-differences](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2714-left-and-right-sum-differences) |
 | [3427-special-array-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3639-zero-array-transformation-i) |
 ## Matrix
 |  |
@@ -925,6 +927,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
