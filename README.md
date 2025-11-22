@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0777-toeplitz-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0777-toeplitz-matrix) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0794-swim-in-rising-water) |
 | [0852-friends-of-appropriate-ages](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0852-friends-of-appropriate-ages) |
 | [0854-making-a-large-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0854-making-a-large-island) |
 | [0883-car-fleet](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0883-car-fleet) |
@@ -736,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0794-swim-in-rising-water) |
 | [0852-friends-of-appropriate-ages](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0852-friends-of-appropriate-ages) |
 | [0907-koko-eating-bananas](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0912-random-pick-with-weight) |
@@ -874,6 +876,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0529-minesweeper](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0695-max-area-of-island) |
 | [0777-toeplitz-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0777-toeplitz-matrix) |
+| [0794-swim-in-rising-water](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0854-making-a-large-island) |
 | [0971-shortest-bridge](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1036-rotting-oranges) |
@@ -955,6 +958,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0692-top-k-frequent-words) |
+| [0794-swim-in-rising-water](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1184-car-pooling) |
@@ -1252,6 +1256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0721-accounts-merge) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [0794-swim-in-rising-water](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1300,6 +1305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1329,6 +1335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
