@@ -3,31 +3,30 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        
-        # find index where its left element is less that this index element
-        #
+        #[1,2,5,3,4,5,6] --> [1,2,5,3,4,6,5]
 
-        pivot = -1
+        #pivot will be an element where current number is less than next number
 
-        for i in range(len(nums)-1, -1, -1):
-            if(nums[i]>nums[i-1]):
-                pivot = i-1
-                break
+        i=len(nums)-2
+
+        while(i>=0 and nums[i]>=nums[i+1]):
+            i-=1
         
-        if(pivot!=-1):
-            for j in range(len(nums)-1, pivot, -1):
-                if(nums[j]>nums[pivot]):
-                    break
-            
-            nums[pivot], nums[j] = nums[j], nums[pivot]
+        print(i)
+
+        if(i>=0):
+            #find element greater that nums[i] from right to left
+            j=len(nums)-1
+            while(j>i and nums[j]<=nums[i]):
+                j-=1
+            nums[i], nums[j] = nums[j], nums[i]
         
-        #reverse numbers from next to pivot to end
-        #two pointer
-        l = pivot+1
+        l=i+1
         r = len(nums)-1
 
-        while(l<=r):
+        while(l<r):
             nums[l], nums[r] = nums[r], nums[l]
             l+=1
             r-=1
         
+        print(nums)
