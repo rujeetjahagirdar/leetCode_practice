@@ -10,29 +10,12 @@ class Node:
 
 class Solution:
     def lowestCommonAncestor(self, p: 'Node', q: 'Node') -> 'Node':
-        # p_path = []
 
-        # curr = p
+        #trace path for any one node
+        #while tracing for other node, check if it exists in path for previous node
 
-        # while(curr):
-        #     p_path.append(curr)
-        #     curr = curr.parent
-        
-        # print(p_path)
-
-        # q_path = []
-
-        # curr= q
-
-        # while(curr):
-        #     q_path.append(curr)
-        #     curr = curr.parent
-        
-        # print(q_path)
-
-        # for i in p_path:
-        #     if(i in q_path):
-        #         return i
+        #TC: O(n)
+        #SC: O(n)
 
         p_path = []
 
@@ -42,13 +25,12 @@ class Solution:
             p_path.append(curr)
             curr = curr.parent
         
-        print(p_path)
-
-
-        curr= q
+        curr = q
 
         while(curr):
             if(curr in p_path):
                 return curr
-        
             curr = curr.parent
+        
+        return None
+    
