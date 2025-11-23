@@ -323,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0169-majority-element) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0202-happy-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0202-happy-number) |
@@ -761,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0155-min-stack) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0173-binary-search-tree-iterator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0173-binary-search-tree-iterator) |
@@ -1162,6 +1164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0234-palindrome-linked-list) |
@@ -1483,6 +1486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0146-lru-cache) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Interactive
 |  |
