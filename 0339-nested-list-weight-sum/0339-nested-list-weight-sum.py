@@ -44,26 +44,19 @@
 class Solution:
     def depthSum(self, nestedList: List[NestedInteger]) -> int:
         
-        #dfs, top down??
-        #depth passed from top to bottom
-        #ans saved in global varibale
+        self.ans = 0
 
-        self.ans=0
+        def dfs(li, depth):
+            depth_sum=0
 
-        def dfs(lst, depth):
-            depth_sum = 0
-            for l in lst:
+            for l in li:
                 if(l.isInteger()):
                     depth_sum+=l.getInteger()*depth
                 else:
                     dfs(l.getList(), depth+1)
-                    # depth_sum+=dfs(l.getList(), depth+1)
-
+            
             self.ans+=depth_sum
-            # return depth_sum
-        
-        
+
         dfs(nestedList, 1)
-        # self.ans=dfs(nestedList, 1)
 
         return self.ans
