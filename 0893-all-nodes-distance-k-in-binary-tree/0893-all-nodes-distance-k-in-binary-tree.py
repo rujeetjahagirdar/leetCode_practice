@@ -12,40 +12,51 @@ class Solution:
         #making mapping for parent nodes {node: parent_node}
         #then from target node, go in direction of each of its child and parent and find nodes at k distance
 
-        node_parent_mapping = {}
-        def traverse(node, parent_node):
-            if not node:
+        #TC: O(n)
+        #SC: O(n)
+
+        #make parent mapping
+        parents = {}
+        parents[root] = None
+
+        def dfs(node):
+            if(not node):
                 return
+            if(node.left):
+                parents[node.left] = node
+            if(node.right):
+                parents[node.right] = node
             
-            node_parent_mapping[node] = parent_node
+            dfs(node.left)
+            dfs(node.right)
+        
+        dfs(root)
 
-            traverse(node.left, node)
-            traverse(node.right, node)
-
-        traverse(root, None)
+        #find nodes
+        #dfs, top down
 
         ans=[]
         visited = set()
 
-        def findNodes(node, nextNode, dist):
-            if(not nextNode or nextNode in visited):
+        def findNodes(nextNode, dist):
+            if not nextNode or nextNode in visited:
                 return
             visited.add(nextNode)
-            if(dist==0):
+            if(dist==k):
                 ans.append(nextNode.val)
-            
-            findNodes(nextNode, nextNode.left, dist-1)
-            findNodes(nextNode, nextNode.right, dist-1)
-            findNodes(nextNode, node_parent_mapping[nextNode], dist-1)
 
-            return
+            findNodes(nextNode.left, dist+1)
+            findNodes(nextNode.right, dist+1)
+            findNodes(parents[nextNode], dist+1)
+        
         
         if(k==0):
             return [target.val]
-
+            
         visited.add(target)
-        for nextNode in [target.left, target.right, node_parent_mapping[target]]:
-            # visited.add(nextNode)
-            findNodes(target, nextNode, k-1)
+        for nxt in [target.left, target.right, parents[target]]:
+            findNodes(nxt, 1)
         
+
+        print(ans)
         return ans
