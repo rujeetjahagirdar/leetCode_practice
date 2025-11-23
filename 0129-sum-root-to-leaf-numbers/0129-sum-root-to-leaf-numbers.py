@@ -8,6 +8,13 @@ class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
         
         #dfs, top down
+        #when leaf occurs, add number to gloabl total
+        #current node processing before processing child
+
+        #TC: O(n)
+        #SC: O(height)
+
+
 
         self.total=0
 
@@ -22,6 +29,9 @@ class Solution:
             
             dfs(node.left, n)
             dfs(node.right, n)
+        
+        if not root:
+            return 0
         
         dfs(root, 0)
 
