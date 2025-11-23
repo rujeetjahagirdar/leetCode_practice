@@ -8,26 +8,21 @@ class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
         
         #dfs, top down
-        #when leaf occurs, add number to gloabl total
 
-        if not root:
-            return 0
+        self.total=0
 
-        self.ans=0
-
-        def traverse(node, n):
+        def dfs(node, n):
             if not node:
                 return
-            
-            current_num = n*10 + node.val
-            
+
+            n = n*10+node.val
+
             if(not node.left and not node.right):
-                self.ans+=current_num
+                self.total+=n
             
-            traverse(node.left, current_num)
-            traverse(node.right, current_num)
+            dfs(node.left, n)
+            dfs(node.right, n)
         
+        dfs(root, 0)
 
-        traverse(root, 0)
-
-        return self.ans
+        return self.total
