@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0419-battleships-in-a-board) |
+| [0490-the-maze](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0490-the-maze) |
 | [0494-target-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0502-ipo) |
@@ -876,6 +877,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0419-battleships-in-a-board) |
+| [0490-the-maze](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0490-the-maze) |
 | [0498-diagonal-traverse](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0695-max-area-of-island) |
@@ -1250,6 +1252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0419-battleships-in-a-board) |
+| [0490-the-maze](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0490-the-maze) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1303,6 +1306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0433-minimum-genetic-mutation) |
+| [0490-the-maze](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0490-the-maze) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
