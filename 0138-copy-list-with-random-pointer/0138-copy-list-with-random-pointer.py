@@ -10,41 +10,32 @@ class Node:
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
         
-        #make dummy node for new list
-        #maintain visited hash map
-        #use two passes
-            #first: parse original list and fill only next pointers for new list
-            #second: now fill random pointers
-
-
-        visited_mapping = {}
-
-        dummy = newPtr = Node(-1)
-
-        curr = head
-
-        #first pass
-        while curr:
-            newNode = Node(curr.val, curr.next)
-
-            visited_mapping[curr] = newNode
-
-            newPtr.next = newNode
-            newPtr = newPtr.next
-
-            curr = curr.next
+        if not head:
+            return
         
-        #second pass
+        old_to_new_node = {}
         curr = head
+        dummy = headNew = Node(-1)
 
-        while curr:
-            if(curr.random==None):
-                visited_mapping[curr].random = None
-            else:
-                visited_mapping[curr].random = visited_mapping[curr.random]
+        while(curr):
+            newNode = Node(x=curr.val, next=curr.next, random=None)
+            headNew.next = newNode
+            old_to_new_node[curr] = newNode
+
+            headNew = headNew.next
+            curr = curr.next
+
+        
+        print(dummy.next.val)
+
+        curr = head
+        while(curr):
+            if(curr.random):
+                old_to_new_node[curr].random = old_to_new_node[curr.random]
+            # else:
+            #     old_to_new_node[curr].random = None
             
             curr = curr.next
         
         return dummy.next
-        
-            
+
