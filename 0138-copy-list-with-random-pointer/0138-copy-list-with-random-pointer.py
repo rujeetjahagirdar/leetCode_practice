@@ -26,7 +26,7 @@ class Solution:
             curr = curr.next
 
         
-        print(dummy.next.val)
+        # print(dummy.next.val)
 
         curr = head
         while(curr):
