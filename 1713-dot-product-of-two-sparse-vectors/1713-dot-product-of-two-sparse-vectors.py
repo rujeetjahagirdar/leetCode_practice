@@ -3,13 +3,14 @@ class SparseVector:
         self.vector = {}
 
         for i in range(len(nums)):
-            self.vector[i] = nums[i]
+            if(nums[i]!=0):
+                self.vector[i] = nums[i]
         
 
     # Return the dotProduct of two sparse vectors
     def dotProduct(self, vec: 'SparseVector') -> int:
         if not self.vector or not vec:
-            return
+            return 0
 
         ans=0
 
