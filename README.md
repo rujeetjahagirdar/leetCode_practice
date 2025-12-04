@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0244-shortest-word-distance-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0244-shortest-word-distance-ii) |
 | [0249-group-shifted-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0249-group-shifted-strings) |
 | [0251-flatten-2d-vector](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0251-flatten-2d-vector) |
+| [0253-meeting-rooms-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0271-encode-and-decode-strings) |
 | [0281-zigzag-iterator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0281-zigzag-iterator) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0179-largest-number) |
+| [0253-meeting-rooms-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0502-ipo](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0621-task-scheduler) |
@@ -498,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0244-shortest-word-distance-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0244-shortest-word-distance-ii) |
 | [0246-strobogrammatic-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0246-strobogrammatic-number) |
 | [0251-flatten-2d-vector](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0251-flatten-2d-vector) |
+| [0253-meeting-rooms-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0392-is-subsequence) |
 | [0408-valid-word-abbreviation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0408-valid-word-abbreviation) |
@@ -649,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0242-valid-anagram) |
+| [0253-meeting-rooms-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0295-find-median-from-data-stream) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -842,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0303-range-sum-query-immutable](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0724-find-pivot-index) |
@@ -957,6 +962,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0355-design-twitter) |
