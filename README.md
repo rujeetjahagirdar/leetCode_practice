@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0952-word-subsets) |
 | [0971-shortest-bridge](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0971-shortest-bridge) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1014-k-closest-points-to-origin](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1014-k-closest-points-to-origin) |
 | [1028-interval-list-intersections](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1036-rotting-oranges) |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0952-word-subsets) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1023-time-based-key-value-store](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1023-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
