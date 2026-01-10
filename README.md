@@ -516,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0251-flatten-2d-vector](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0251-flatten-2d-vector) |
 | [0253-meeting-rooms-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0295-find-median-from-data-stream) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0392-is-subsequence) |
 | [0408-valid-word-abbreviation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0408-valid-word-abbreviation) |
 | [0443-string-compression](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0443-string-compression) |
@@ -577,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0271-encode-and-decode-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0271-encode-and-decode-strings) |
 | [0288-unique-word-abbreviation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0288-unique-word-abbreviation) |
 | [0290-word-pattern](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0394-decode-string) |
