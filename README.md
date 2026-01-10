@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0502-ipo) |
 | [0529-minesweeper](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0529-minesweeper) |
 | [0560-subarray-sum-equals-k](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0636-exclusive-time-of-functions) |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0179-largest-number) |
 | [0253-meeting-rooms-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0253-meeting-rooms-ii) |
 | [0502-ipo](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0502-ipo) |
+| [0605-can-place-flowers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0670-maximum-swap) |
