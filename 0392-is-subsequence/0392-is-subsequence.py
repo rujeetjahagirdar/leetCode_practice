@@ -1,16 +1,24 @@
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
-        i=0
-        j=0
-        ans=False
-        while(j<len(t) and i<len(s)):
-            if(s[i]==t[j]):
-                i+=1
-                j+=1
-                ans=True
-            else:
-                j+=1
+        if(not t and not s):
+            return True
+        if(not t):
+            return False
+        if(len(t)<len(s)):
+            return False
+        if(len(s)==len(t)):
+            return s==t
+        if(not s and t):
+            return True
+        
+        p1=0
+        p2=0
 
-        if(i>=len(s)):
+        while(p2<len(t) and p1<len(s)):
+            if(t[p2]==s[p1]):
+                p1+=1
+            p2+=1
+        
+        if(p1==len(s)):
             return True
         return False
