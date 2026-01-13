@@ -1,17 +1,16 @@
 class Solution:
     def maxChunksToSorted(self, arr: List[int]) -> int:
-        #arr = [1,0,2,3,4]
-        ans=0
+        # At index i, if the maximum value seen so far equals i, then all elements up to i can be sorted independently and will end up exactly in positions 0 â¦ i.
 
-        i=0
-        j=0
-        while(j<len(arr) and i<len(arr)):
-            
-            # a chunk is valid when indx of end of chunk is eqal to max of that chunk
-            while(j!=max(arr[:j+1])):
-                j+=1
-            ans+=1
-            i=j+1
-            j=i
+# That means we can safely end a chunk at index i.
+
+        ans=0
+        maxSoFar=0
+
+        for i in range(len(arr)):
+            maxSoFar = max(maxSoFar, arr[i])
+            if(maxSoFar==i):
+                ans+=1
+        
         print(ans)
         return ans
