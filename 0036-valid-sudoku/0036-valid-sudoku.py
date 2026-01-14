@@ -1,26 +1,54 @@
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-        rowSet = defaultdict(set)
-        colSet = defaultdict(set)
-        boxSet = defaultdict(set)
+        # rowSet = defaultdict(set)
+        # colSet = defaultdict(set)
+        # boxSet = defaultdict(set)
+
+        # for i in range(9):
+        #     for j in range(9):
+        #         if(board[i][j]!='.'):
+        #             if(board[i][j] in rowSet[i]):
+        #                 return False
+        #             else:
+        #                 rowSet[i].add(board[i][j])
+        #             if(board[i][j] in colSet[j]):
+        #                 return False
+        #             else:
+        #                 colSet[j].add(board[i][j])
+        #             if(board[i][j] in boxSet[(i//3,j//3)]):
+        #                 return False
+        #             else:
+        #                 boxSet[(i//3,j//3)].add(board[i][j])
+        
+        # # print(rowSet)
+        # # print(colSet)
+        # # print(boxSet)
+        # return True
+
+
+        rowset = defaultdict(set)
+        colset = defaultdict(set)
+        boxset = defaultdict(set)
 
         for i in range(9):
             for j in range(9):
                 if(board[i][j]!='.'):
-                    if(board[i][j] in rowSet[i]):
+                    #check row set
+                    if(board[i][j] in rowset[i]):
                         return False
                     else:
-                        rowSet[i].add(board[i][j])
-                    if(board[i][j] in colSet[j]):
+                        rowset[i].add(board[i][j])
+
+                    #check col set
+                    if(board[i][j] in colset[j]):
                         return False
                     else:
-                        colSet[j].add(board[i][j])
-                    if(board[i][j] in boxSet[(i//3,j//3)]):
+                        colset[j].add(board[i][j])
+                    
+                    #check box set
+                    if(board[i][j] in boxset[(i//3, j//3)]):
                         return False
                     else:
-                        boxSet[(i//3,j//3)].add(board[i][j])
+                        boxset[(i//3, j//3)].add(board[i][j])
         
-        print(rowSet)
-        print(colSet)
-        print(boxSet)
         return True
