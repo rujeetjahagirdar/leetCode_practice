@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0088-merge-sorted-array) |
@@ -578,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0127-word-ladder) |
@@ -923,6 +925,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0286-walls-and-gates) |
@@ -1288,6 +1291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0100-same-tree) |
@@ -1485,6 +1489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0800-letter-case-permutation) |
