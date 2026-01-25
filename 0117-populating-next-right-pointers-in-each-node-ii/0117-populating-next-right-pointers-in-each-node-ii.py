@@ -46,23 +46,23 @@ class Solution:
             # print(len(q))
             # print(q[0])
             while(q):
-                # prev = None
-                levelNode=[]
+                prev = None
+                # levelNode=[]        #takes extra space
                 for i in range(len(q)):
                     n = q.popleft()
-                    levelNode.append(n)
-                    # if(prev!=None):
-                    #     prev.next = n
-                    # prev=n
+                    # levelNode.append(n)
+                    if(prev!=None):
+                        prev.next = n
+                    prev=n
                     
                     if(n.left):
                         q.append(n.left)
                     if(n.right):
                         q.append(n.right)
                 
-                # print(levelNode)
-                for i in range(len(levelNode)-1):
-                    levelNode[i].next = levelNode[i+1]
+                # print(levelNode)      
+                # for i in range(len(levelNode)-1):
+                    # levelNode[i].next = levelNode[i+1]
 
             # print(root)
             return 
