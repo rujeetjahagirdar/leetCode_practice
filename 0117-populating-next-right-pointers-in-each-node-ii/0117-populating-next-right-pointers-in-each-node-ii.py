@@ -11,6 +11,33 @@ class Node:
 class Solution:
     def connect(self, root: 'Node') -> 'Node':
 
+        # if not root:
+        #     return 
+        
+        # def bfs(node):
+        #     q = deque([node])
+        #     # print(len(q))
+        #     # print(q[0])
+        #     while(q):
+        #         prev = None
+        #         for i in range(len(q)):
+        #             n = q.popleft()
+                    
+        #             if(prev!=None):
+        #                 prev.next = n
+        #             prev=n
+                    
+        #             if(n.left):
+        #                 q.append(n.left)
+        #             if(n.right):
+        #                 q.append(n.right)
+
+        #     # print(root)
+        #     return 
+        
+        # bfs(root)
+        # return root
+
         if not root:
             return 
         
@@ -19,18 +46,23 @@ class Solution:
             # print(len(q))
             # print(q[0])
             while(q):
-                prev = None
+                # prev = None
+                levelNode=[]
                 for i in range(len(q)):
                     n = q.popleft()
-                    
-                    if(prev!=None):
-                        prev.next = n
-                    prev=n
+                    levelNode.append(n)
+                    # if(prev!=None):
+                    #     prev.next = n
+                    # prev=n
                     
                     if(n.left):
                         q.append(n.left)
                     if(n.right):
                         q.append(n.right)
+                
+                # print(levelNode)
+                for i in range(len(levelNode)-1):
+                    levelNode[i].next = levelNode[i+1]
 
             # print(root)
             return 
