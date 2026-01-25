@@ -593,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0244-shortest-word-distance-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0244-shortest-word-distance-ii) |
 | [0246-strobogrammatic-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0246-strobogrammatic-number) |
 | [0249-group-shifted-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0249-group-shifted-strings) |
+| [0257-binary-tree-paths](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0257-binary-tree-paths) |
 | [0271-encode-and-decode-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0271-encode-and-decode-strings) |
 | [0288-unique-word-abbreviation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0288-unique-word-abbreviation) |
 | [0290-word-pattern](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0290-word-pattern) |
@@ -1064,6 +1065,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0257-binary-tree-paths) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1107,6 +1109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0257-binary-tree-paths) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1311,6 +1314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0257-binary-tree-paths) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0339-nested-list-weight-sum) |
 | [0399-evaluate-division](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0399-evaluate-division) |
@@ -1493,6 +1497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0800-letter-case-permutation) |
 | [0865-robot-room-cleaner](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0865-robot-room-cleaner) |
