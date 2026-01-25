@@ -12,21 +12,40 @@ class Solution:
 
         # currSum = 0
 
-        def dfs(root, currSum):
+        # def dfs(root, currSum):
 
-            if not root:
-                return False
+        #     if not root:
+        #         return False
             
-            currSum +=root.val
+        #     currSum +=root.val
 
-            if(not root.left and not root.right):
-                if(currSum==targetSum):
-                    return True
-                else:
-                    return False
+        #     if(not root.left and not root.right):
+        #         if(currSum==targetSum):
+        #             return True
+        #         else:
+        #             return False
                 
-            return dfs(root.left, currSum) or dfs(root.right, currSum)
+        #     return dfs(root.left, currSum) or dfs(root.right, currSum)
         
-        return dfs(root, 0)
+        # return dfs(root, 0)
+
+        found=False
+        def dfs(node, currSum):
+            nonlocal found
+
+            if not node:
+                return
             
+            currSum+=node.val
+
+            if(not node.left and not node.right):
+                if(currSum==targetSum):
+                    print(currSum)
+                    found=True
+                    return 
             
+            dfs(node.left, currSum)
+            dfs(node.right, currSum)
+        
+        dfs(root, 0)
+        return found
