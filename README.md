@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0721-accounts-merge) |
+| [0722-remove-comments](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0739-daily-temperatures) |
@@ -618,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0721-accounts-merge) |
+| [0722-remove-comments](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0722-remove-comments) |
 | [0782-jewels-and-stones](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0807-custom-sort-string) |
