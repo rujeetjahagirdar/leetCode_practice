@@ -1289,6 +1289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0389-find-the-difference) |
 | [0800-letter-case-permutation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0800-letter-case-permutation) |
+| [0899-binary-gap](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0899-binary-gap) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2308-divide-array-into-equal-pairs) |
