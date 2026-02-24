@@ -398,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -639,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
@@ -1176,6 +1178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Rolling Hash
 |  |
 | ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
@@ -1189,6 +1192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 |  |
 | ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser
 |  |
@@ -1285,6 +1289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0389-find-the-difference) |
 | [0800-letter-case-permutation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0800-letter-case-permutation) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2509-minimize-xor](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2509-minimize-xor) |
