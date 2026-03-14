@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3483-alternating-groups-ii) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3195-separate-black-and-white-balls](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Dynamic Programming
 |  |
@@ -496,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3336-water-bottles-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -816,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3427-special-array-ii) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3827-implement-router) |
 ## Design
@@ -1049,6 +1053,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Tree
