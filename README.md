@@ -482,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1642-water-bottles) |
+| [1728-fancy-sequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1728-fancy-sequence) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2050-count-good-numbers) |
@@ -852,6 +853,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1497-design-a-stack-with-increment-operation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1708-design-parking-system](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1708-design-parking-system) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1728-fancy-sequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1728-fancy-sequence) |
 | [1775-design-an-ordered-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1775-design-an-ordered-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2169-simple-bank-system](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2169-simple-bank-system) |
@@ -1560,6 +1562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0729-my-calendar-i) |
+| [1728-fancy-sequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1728-fancy-sequence) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Database
