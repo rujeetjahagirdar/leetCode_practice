@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0056-merge-intervals) |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0070-climbing-stairs) |
@@ -873,6 +875,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0191-number-of-1-bits) |
