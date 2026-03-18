@@ -1,18 +1,18 @@
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
         
-        #stack
-        intervals = sorted(intervals, key=lambda x: x[0])
+        #sorting + stack
+        stack = []
 
+        intervals2 = sorted(intervals, key = lambda x: x[0])
 
-        stack = [intervals[0]]
+        stack.append(intervals2[0])
 
-        for i in range(1, len(intervals)):
-            s, e = intervals[i]
-
-            if(s<=stack[-1][1]): #overlap
-                stack[-1][1] = max(e, stack[-1][1])
+        for i in range(1, len(intervals2)):
+            if(intervals2[i][0]<=stack[-1][1]):
+                stack[-1][1] = max(intervals2[i][1], stack[-1][1])
             else:
-                stack.append([s, e])
+                stack.append(intervals2[i])
+            # print(stack)
         
-        return stack
+        return(stack)
