@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1972-rotating-the-box) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -736,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1970-sorting-the-sentence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1970-sorting-the-sentence) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2215-finding-3-digit-even-numbers) |
@@ -817,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1646-kth-missing-positive-number) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1050,6 +1053,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1539-diagonal-traverse-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1539-diagonal-traverse-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1917-maximum-average-pass-ratio) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1608,4 +1612,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0210-course-schedule-ii) |
+## Sweep Line
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
