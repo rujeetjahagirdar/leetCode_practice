@@ -11,19 +11,18 @@ class Solution:
             else:
                 if(openBrackstes):
                     openBrackstes.pop()
-                elif(not openBrackstes and stars):
+                elif(stars):
                     stars.pop()
                 else:
                     return False
         
-        if(openBrackstes):
-            while(openBrackstes and stars):
-                if(stars[-1]>openBrackstes[-1]):
-                    openBrackstes.pop()
-                    stars.pop()
-                else:
-                    return False
-            if(openBrackstes):
+        while(openBrackstes and stars):
+            if(stars[-1]>openBrackstes[-1]):
+                openBrackstes.pop()
+                stars.pop()
+            else:
                 return False
+        if(openBrackstes):
+            return False
         
         return True
