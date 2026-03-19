@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3483-alternating-groups-ii) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -938,6 +939,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3427-special-array-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3639-zero-array-transformation-i) |
 ## Matrix
@@ -982,6 +984,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3797-design-spreadsheet](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3797-design-spreadsheet) |
 ## Simulation
