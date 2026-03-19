@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0680-valid-palindrome-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1063-best-sightseeing-pair](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1063-best-sightseeing-pair) |
@@ -627,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0721-accounts-merge) |
@@ -777,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0394-decode-string) |
 | [0536-construct-binary-tree-from-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0536-construct-binary-tree-from-string) |
 | [0636-exclusive-time-of-functions](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0636-exclusive-time-of-functions) |
+| [0678-valid-parenthesis-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0739-daily-temperatures) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0780-max-chunks-to-make-sorted) |
