@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0721-accounts-merge) |
+| [0768-partition-labels](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0807-custom-sort-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -556,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0768-partition-labels) |
 | [0852-friends-of-appropriate-ages](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0852-friends-of-appropriate-ages) |
 | [0908-middle-of-the-linked-list](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0908-middle-of-the-linked-list) |
 | [1028-interval-list-intersections](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1028-interval-list-intersections) |
@@ -634,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0722-remove-comments) |
+| [0768-partition-labels](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0807-custom-sort-string) |
