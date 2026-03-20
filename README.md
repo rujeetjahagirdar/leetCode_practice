@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3885-count-special-triplets](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3886-count-number-of-trapezoids-i) |
+| [3934-coupon-code-validator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3934-coupon-code-validator) |
 | [4039-compute-decimal-representation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4039-compute-decimal-representation) |
 ## Greedy
 |  |
@@ -462,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3886-count-number-of-trapezoids-i) |
+| [3934-coupon-code-validator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3934-coupon-code-validator) |
 ## Math
 |  |
 | ------- |
@@ -705,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3934-coupon-code-validator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3934-coupon-code-validator) |
 ## Sorting
 |  |
 | ------- |
@@ -768,6 +771,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3321-type-of-triangle) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
+| [3934-coupon-code-validator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3934-coupon-code-validator) |
 ## Stack
 |  |
 | ------- |
