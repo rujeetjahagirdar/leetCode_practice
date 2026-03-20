@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-substrings-with-only-1s/?envType=daily-question&envId=2026-03-20">1636. Number of Substrings With Only 1s</a></h2><h3>Medium</h3><hr><p>Given a binary string <code>s</code>, return <em>the number of substrings with all characters</em> <code>1</code><em>&#39;s</em>. Since the answer may be too large, return it modulo <code>10<sup>9</sup> + 7</code>.</p>
+<h2><a href="https://leetcode.com/problems/number-of-substrings-with-only-1s">1636. Number of Substrings With Only 1s</a></h2><h3>Medium</h3><hr><p>Given a binary string <code>s</code>, return <em>the number of substrings with all characters</em> <code>1</code><em>&#39;s</em>. Since the answer may be too large, return it modulo <code>10<sup>9</sup> + 7</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
