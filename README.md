@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1646-kth-missing-positive-number) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1775-design-an-ordered-stream](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1775-design-an-ordered-stream) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2262-solving-questions-with-brainpower) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -992,6 +994,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1171-shortest-path-in-binary-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1716-maximum-non-negative-product-in-a-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1876-map-of-highest-peak](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1972-rotating-the-box) |
