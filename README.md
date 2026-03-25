@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3797-design-spreadsheet](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3827-implement-router) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3849-equal-sum-grid-partition-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3885-count-special-triplets](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3886-count-number-of-trapezoids-i) |
@@ -967,6 +968,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3639-zero-array-transformation-i) |
+| [3849-equal-sum-grid-partition-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3849-equal-sum-grid-partition-i) |
 ## Matrix
 |  |
 | ------- |
@@ -1013,6 +1015,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3797-design-spreadsheet](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3797-design-spreadsheet) |
+| [3849-equal-sum-grid-partition-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3973-flip-square-submatrix-vertically](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3973-flip-square-submatrix-vertically) |
 ## Simulation
@@ -1224,6 +1227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2873-prime-pairs-with-target-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2873-prime-pairs-with-target-sum) |
+| [3849-equal-sum-grid-partition-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3849-equal-sum-grid-partition-i) |
 ## Trie
 |  |
 | ------- |
