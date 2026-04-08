@@ -1639,6 +1639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0596-classes-with-at-least-5-students) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [0610-triangle-judgement](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0610-triangle-judgement) |
 | [1179-game-play-analysis-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1182-game-play-analysis-iv) |
 | [3910-find-books-with-no-available-copies](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3910-find-books-with-no-available-copies) |
