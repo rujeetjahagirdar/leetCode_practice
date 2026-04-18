@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3934-coupon-code-validator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3934-coupon-code-validator) |
 | [3973-flip-square-submatrix-vertically](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3973-flip-square-submatrix-vertically) |
 | [4039-compute-decimal-representation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4039-compute-decimal-representation) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -471,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3885-count-special-triplets](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3886-count-number-of-trapezoids-i) |
 | [3934-coupon-code-validator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3934-coupon-code-validator) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Math
 |  |
 | ------- |
@@ -532,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3886-count-number-of-trapezoids-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3886-count-number-of-trapezoids-i) |
 | [4039-compute-decimal-representation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4039-compute-decimal-representation) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
 | ------- |
