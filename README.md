@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1972-rotating-the-box) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1977-minimum-interval-to-include-each-query) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -586,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1972-rotating-the-box) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -854,6 +856,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1646-kth-missing-positive-number) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1977-minimum-interval-to-include-each-query) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
