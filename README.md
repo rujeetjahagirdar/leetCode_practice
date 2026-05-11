@@ -298,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1304-longest-happy-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1304-longest-happy-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1464-reduce-array-size-to-the-half) |
 | [1502-construct-k-palindrome-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -675,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1170-shortest-common-supersequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1170-shortest-common-supersequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1304-longest-happy-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1304-longest-happy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -1098,6 +1100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1184-car-pooling) |
+| [1304-longest-happy-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1304-longest-happy-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1464-reduce-array-size-to-the-half) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1539-diagonal-traverse-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1539-diagonal-traverse-ii) |
