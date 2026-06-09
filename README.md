@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3886-count-number-of-trapezoids-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3886-count-number-of-trapezoids-i) |
 | [3934-coupon-code-validator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3934-coupon-code-validator) |
 | [3973-flip-square-submatrix-vertically](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3973-flip-square-submatrix-vertically) |
+| [4005-maximum-total-subarray-value-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4005-maximum-total-subarray-value-i) |
 | [4039-compute-decimal-representation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4039-compute-decimal-representation) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Greedy
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [4005-maximum-total-subarray-value-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4005-maximum-total-subarray-value-i) |
 ## Dynamic Programming
 |  |
 | ------- |
