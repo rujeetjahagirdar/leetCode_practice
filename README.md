@@ -543,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3830-find-closest-person) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3886-count-number-of-trapezoids-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3886-count-number-of-trapezoids-i) |
 | [4039-compute-decimal-representation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4039-compute-decimal-representation) |
@@ -1179,6 +1180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1452,6 +1454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
