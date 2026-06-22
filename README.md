@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1539-diagonal-traverse-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1539-diagonal-traverse-ii) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1580-shuffle-the-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
