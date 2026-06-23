@@ -427,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1297-maximum-number-of-balloons](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1297-maximum-number-of-balloons) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -688,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1170-shortest-common-supersequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1297-maximum-number-of-balloons](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1304-longest-happy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -1238,6 +1240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0692-top-k-frequent-words) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1297-maximum-number-of-balloons](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1297-maximum-number-of-balloons) |
 | [1396-count-servers-that-communicate](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1510-find-lucky-integer-in-an-array) |
