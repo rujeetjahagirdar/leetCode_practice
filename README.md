@@ -1681,6 +1681,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0619-biggest-single-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0619-biggest-single-number) |
 | [1179-game-play-analysis-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1182-game-play-analysis-iv) |
+| [1827-invalid-tweets](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1827-invalid-tweets) |
 | [3910-find-books-with-no-available-copies](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3910-find-books-with-no-available-copies) |
 ## Randomized
 |  |
