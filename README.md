@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-maximum-matrix-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2102-find-the-middle-index-in-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2102-find-the-middle-index-in-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -533,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2050-count-good-numbers) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2383-add-two-integers) |
 | [2496-count-days-spent-together](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2496-count-days-spent-together) |
 | [2610-closest-prime-numbers-in-range](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2610-closest-prime-numbers-in-range) |
@@ -1607,6 +1609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0258-add-digits) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2610-closest-prime-numbers-in-range) |
 | [2873-prime-pairs-with-target-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2873-prime-pairs-with-target-sum) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
