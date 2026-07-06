@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1171-shortest-path-in-binary-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1184-car-pooling) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1222-remove-covered-intervals](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1222-remove-covered-intervals) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -782,6 +783,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1184-car-pooling](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1184-car-pooling) |
+| [1222-remove-covered-intervals](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1222-remove-covered-intervals) |
 | [1464-reduce-array-size-to-the-half](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1539-diagonal-traverse-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1539-diagonal-traverse-ii) |
