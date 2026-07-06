@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1646-kth-missing-positive-number) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
@@ -1037,6 +1038,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1171-shortest-path-in-binary-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1876-map-of-highest-peak](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1876-map-of-highest-peak) |
@@ -1461,6 +1463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1558-course-schedule-iv) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -1516,6 +1519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1558-course-schedule-iv) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1728,4 +1732,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1977-minimum-interval-to-include-each-query](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1977-minimum-interval-to-include-each-query) |
+## Union-Find
+|  |
+| ------- |
+| [1663-detect-cycles-in-2d-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1663-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
