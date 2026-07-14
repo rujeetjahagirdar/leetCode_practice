@@ -1272,6 +1272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1212-sequential-digits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1212-sequential-digits) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2873-prime-pairs-with-target-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/2873-prime-pairs-with-target-sum) |
