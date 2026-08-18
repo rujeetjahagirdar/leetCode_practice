@@ -670,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0433-minimum-genetic-mutation) |
+| [0434-number-of-segments-in-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0459-repeated-substring-pattern) |
