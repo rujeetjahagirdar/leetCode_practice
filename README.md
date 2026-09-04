@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4270-minimum-operations-to-make-array-non-decreasing](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4270-minimum-operations-to-make-array-non-decreasing) |
+| [4284-smallest-stable-index-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4284-smallest-stable-index-i) |
 ## Greedy
 |  |
 | ------- |
@@ -1015,6 +1016,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3639-zero-array-transformation-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3639-zero-array-transformation-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3850-equal-sum-grid-partition-ii) |
+| [4284-smallest-stable-index-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4284-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
