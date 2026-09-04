@@ -1,19 +1,13 @@
 class Solution:
     def firstStableIndex(self, nums: list[int], k: int) -> int:
-        mxVal = nums[0]
-        mnVal = min(nums)
+        mxVal = float("-INF")
+        mnVal = float("INF")
 
         for i in range(len(nums)):
-            if(nums[i]>=mxVal):
-                mxVal = nums[i]
-            if(nums[i]>=mnVal):
-                mnVal = min(nums[i:])
-            
-            print(f"mxVal = {mxVal}, mnVal = {mnVal}")
-            
-            instability = mxVal - mnVal
+            mxVal = max(mxVal, nums[i])
+            mnVal = min(nums[i:])
 
-            if(instability<=k):
+            if(mxVal - mnVal <=k):
                 return i
         
         return -1
