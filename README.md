@@ -689,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0722-remove-comments) |
+| [0742-to-lower-case](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0800-letter-case-permutation) |
