@@ -1757,4 +1757,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1663-detect-cycles-in-2d-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1663-detect-cycles-in-2d-grid) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
