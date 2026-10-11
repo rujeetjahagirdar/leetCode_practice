@@ -525,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0398-random-pick-index](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0398-random-pick-index) |
 | [0415-add-strings](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0492-construct-the-rectangle) |
+| [0507-perfect-number](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0507-perfect-number) |
 | [0670-maximum-swap](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0670-maximum-swap) |
 | [0912-random-pick-with-weight](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1014-k-closest-points-to-origin) |
