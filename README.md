@@ -686,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0459-repeated-substring-pattern) |
 | [0468-validate-ip-address](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0468-validate-ip-address) |
+| [0520-detect-capital](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0520-detect-capital) |
 | [0536-construct-binary-tree-from-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0536-construct-binary-tree-from-string) |
 | [0541-reverse-string-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/0567-permutation-in-string) |
