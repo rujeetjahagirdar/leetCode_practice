@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3797-design-spreadsheet](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3827-implement-router) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3849-equal-sum-grid-partition-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
@@ -494,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3827-implement-router) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3885-count-special-triplets) |
@@ -835,6 +837,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3321-type-of-triangle) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3859-maximum-product-of-two-digits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3859-maximum-product-of-two-digits) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3934-coupon-code-validator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3934-coupon-code-validator) |
