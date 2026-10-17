@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3973-flip-square-submatrix-vertically](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3973-flip-square-submatrix-vertically) |
 | [4005-maximum-total-subarray-value-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4005-maximum-total-subarray-value-i) |
 | [4039-compute-decimal-representation](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4039-compute-decimal-representation) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4270-minimum-operations-to-make-array-non-decreasing](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4270-minimum-operations-to-make-array-non-decreasing) |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [4005-maximum-total-subarray-value-i](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4005-maximum-total-subarray-value-i) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4270-minimum-operations-to-make-array-non-decreasing](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4270-minimum-operations-to-make-array-non-decreasing) |
 ## Dynamic Programming
 |  |
@@ -841,6 +843,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3859-maximum-product-of-two-digits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3859-maximum-product-of-two-digits) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3934-coupon-code-validator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3934-coupon-code-validator) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
