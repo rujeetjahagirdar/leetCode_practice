@@ -772,6 +772,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3797-design-spreadsheet](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/3934-coupon-code-validator) |
+| [4220-minimum-operations-to-sort-a-string](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
 | ------- |
