@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-number-of-visible-people-in-a-queue](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1380-number-of-closed-islands](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -1065,6 +1066,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1380-number-of-closed-islands](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -1496,6 +1498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1380-number-of-closed-islands](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -1551,6 +1554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1380-number-of-closed-islands](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -1774,6 +1778,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 |  |
 | ------- |
+| [1380-number-of-closed-islands](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/rujeetjahagirdar/leetCode_practice/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Range Minimum/Maximum Query
 |  |
